@@ -1,0 +1,79 @@
+---
+ecli: "ECLI:DE:BVerwG:2002:240702B5B79.02.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "5"
+aktenzeichen: "5 B 79.02"
+decided: "2002-07-24"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/240702B5B79.02.0.pdf"
+corpus_doc_id: "BVerwG_2002-07-24_B_5_B_79_02_NA_0.txt"
+cites_law: ["germany/bund/acts/vwgo/0152.md", "germany/bund/acts/vwgo/0154.md", "germany/bund/acts/vwgo/0166.md", "germany/bund/acts/vwgo/0188.md", "germany/bund/acts/zpo/0114.md", "germany/bund/acts/zpo/0121.md"]
+---
+
+# Bundesverwaltungsgericht, 5 B 79.02 vom 2002-07-24
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                        BESCHLUSS
+
+BVerwG 5 B 79.02 (5 PKH 59.02)
+OVG 12 OB 70/02
+
+
+                 In der Verwaltungsstreitsache
+
+
+
+
+hat der 5. Senat des Bundesverwaltungsgerichts
+am 24. Juli 2002
+durch den Vorsitzenden Richter am Bundesverwaltungsgericht
+Dr. S ä c k e r    und die Richter am Bundesverwaltungsgericht
+Dr. R o t h k e g e l    und   Dr. F r a n k e
+
+
+beschlossen:
+
+
+       Die Beschwerde des Klägers gegen den Beschluss
+       des Niedersächsischen Oberverwaltungsgerichts
+       vom 4. März 2002 wird verworfen.
+
+                              - 2 -
+
+
+         Der Antrag des Klägers, ihm Prozesskostenhilfe zu bewilligen und einen Rechtsanwalt
+         beizuordnen, wird abgelehnt.
+
+         Der Kläger trägt die Kosten des Beschwerdeverfahrens. Gerichtskosten werden nicht erhoben.
+
+
+
+                          G r ü n d e :
+
+
+Die Beschwerde ist unzulässig. Sie ist von Gesetzes wegen
+nicht statthaft. Sie richtet sich nicht gegen eine der in
+§ 152 Abs. 1 VwGO abschließend aufgezählten Entscheidungen,
+die mit der Beschwerde an das Bundesverwaltungsgericht angefochten werden können. Der Ausschluss der Beschwerdemöglichkeit ist verfassungsgemäß, da Art. 19 Abs. 4 des Grundgesetzes
+keinen Instanzenzug gewährleistet (vgl. z.B. BVerfGE 83, 24
+<31>).
+
+
+Dem Kläger kann auch nicht Prozesskostenhilfe bewilligt und
+ein Rechtsanwalt beigeordnet werden; denn sein Rechtsmittelantrag bietet keine hinreichende Aussicht auf Erfolg (§ 166
+VwGO, §§ 114, 121 Abs. 1 ZPO).
+
+
+Die Kostenentscheidung beruht auf § 154 Abs. 2 VwGO, die Gerichtskostenfreiheit auf § 188 Satz 2 VwGO.
+
+
+
+
+Dr. Säcker               Dr. Rothkegel                Dr. Franke
