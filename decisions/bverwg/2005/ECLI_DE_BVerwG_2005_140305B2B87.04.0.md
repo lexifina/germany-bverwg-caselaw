@@ -1,0 +1,221 @@
+---
+ecli: "ECLI:DE:BVerwG:2005:140305B2B87.04.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 B 87.04"
+decided: "2005-03-14"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/140305B2B87.04.0.pdf"
+corpus_doc_id: "BVerwG_2005-03-14_B_2_B_87_04_NA_0.txt"
+cites_law: ["germany/bund/acts/stvo_2013/0045.md", "germany/bund/acts/vwgo/0113.md", "germany/bund/acts/vwgo/0132.md", "germany/bund/acts/vwgo/0154.md", "germany/bund/acts/vwgo/0161.md", "germany/bund/acts/vzog/0010.md"]
+---
+
+# Bundesverwaltungsgericht, 2 B 87.04 vom 2005-03-14
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                               BESCHLUSS
+
+BVerwG 2 B 87.04
+OVG 3 LB 115/03
+
+
+
+                          In der Verwaltungsstreitsache
+
+
+
+
+hat der 2. Senat des Bundesverwaltungsgerichts
+am 14. März 2005
+durch die Richter am Bundesverwaltungsgericht Prof. D a w i n , Dr. K u g e l e
+und Dr. H e i t z
+
+
+beschlossen:
+
+
+          Die Beschwerde des Klägers gegen die Nichtzulassung der
+          Revision in dem Beschluss des Schleswig-Holsteinischen
+          Oberverwaltungsgerichts vom 7. Juli 2004 wird zurückgewiesen.
+
+                                        -2-
+
+
+           Der Kläger trägt die Kosten des Beschwerdeverfahrens.
+
+           Der Wert des Streitgegenstandes wird für das Beschwerdeverfahren auf 19 005 € festgesetzt.
+
+
+
+                                    Gründe:
+
+
+Die Beschwerde ist unbegründet. Die Rechtssache hat nicht die ihr von der Beschwerde beigelegte grundsätzliche Bedeutung (§ 132 Abs. 2 Nr. 1 VwGO). Aus dem
+Beschwerdevorbringen ergibt sich nicht, dass das erstrebte Revisionsverfahren zur
+Beantwortung entscheidungserheblicher konkreter Rechtsfragen mit über den
+Einzelfall hinausgehender Tragweite beitragen könnte, die im Interesse der Einheitlichkeit der Rechtsprechung oder der Fortbildung des Rechts höchstrichterlicher Klärung bedürfen (vgl. BVerwGE 13, 90 <91 f.>). Unerheblich ist dabei, dass in einer
+Vielzahl von Fällen eine Beschwerde mit gleich lautender Begründung erhoben worden ist. Daraus allein ergeben sich keine abstrakten Fragen rechtsgrundsätzlicher
+Bedeutung. Im Übrigen wirft die Beschwerde keine über den Einzelfall hinausgehenden klärungsbedürftigen Fragen auf, die in einem etwaigen Revisionsverfahren neu
+zu klären wären. Die Rechtsfragen, die sie benennt, sind durch die Rechtsprechung
+bereits geklärt.
+
+
+1. Die Beschwerde hält zu I. und III. der Beschwerdebegründung für rechtsgrundsätzlich bedeutsam die beiden Fragen:
+
+
+     I. Besteht ein berechtigtes Feststellungsinteresse des Klägers nach § 113
+     Abs. 1 Satz 4 VwGO in Form des Interesses wegen Präjudizialität für Schadensersatz- oder Entschädigungsansprüche dann, wenn nach dem Urteil eines
+     Kollegialgerichts - hier: VG - bei einer Bescheidungs- oder Verpflichtungsklage
+     der begehrte Verwaltungsakt sich durch ein Ereignis der überholenden Kausalität - hier: anderweitige Beförderung/Versetzung - erledigt, der Klagegegner aber
+     in einem vorangegangenen Verfahren des einstweiligen Rechtsschutzes die
+     Zusicherung gegeben hat, die Rückwirkung einer begehrten Begünstigung bei
+     erfolgreichem Hauptsacheverfahren auszusprechen?
+
+                                         -3-
+
+
+     III. Besteht ein berechtigtes Interesse nach § 113 Abs. 1 Satz 4 VwGO in Form
+     des Interesses wegen Präjudizialität für Schadensersatz- oder Entschädigungsansprüche dann, wenn trotz eines das Begehren des Klägers abweisenden Urteils eines Kollegialgerichts der Kläger wegen Verletzung der beamtenrechtlichen Fürsorgepflicht Schadensersatz-/Entschädigungsansprüche auch in einem
+     Verwaltungsverfahren/Verwaltungsgerichtsverfahren geltend machen kann?
+
+
+a) Es kann offen bleiben, ob das Berufungsgericht die mit der Frage zu I. vorausgesetzte Zusicherung des genannten Inhalts festgestellt hat; wäre dies nicht der Fall,
+stünde schon dies einer Zulassung der Revision wegen grundsätzlicher Bedeutung
+der mit einer solchen Zusicherung zusammenhängender Rechtsfragen entgegen
+(vgl. z.B. BVerwG, Beschluss vom 5. September 1996 - BVerwG 9 B 387.96 -
+Buchholz 310 § 132 Abs. 2 Ziff. 1 VwGO Nr. 12). Darauf kommt es letztlich nicht an,
+weil mit dem Beschwerdevorbringen keine Gesichtspunkte vorgetragen werden, aus
+denen sich eine ungeklärte Frage von grundsätzlicher Bedeutung ergeben könnte,
+die an eine derartige Zusage anknüpft.
+
+
+b) Die weitergehenden Fragen, ob das Feststellungsinteresse nach § 113 Abs. 1
+Satz 4 VwGO analog wegen Präjudizialität für die geltend zu machenden Schadensersatz- oder Entschädigungsansprüche besteht, sind in der Form, in der sie sich im
+Rechtsstreit des Klägers als entscheidungserheblich stellen würden, durch die
+Rechtsprechung bereits geklärt.
+
+
+Nach der Rechtsprechung des Bundesverwaltungsgerichts kann die Vorgreiflichkeit
+einer gerichtlichen Feststellung, dass die Behörde einen bestimmten Verwaltungsakt
+- hier die Beförderung des Klägers - zu einem bestimmten Zeitpunkt hätte erlassen
+müssen, im Hinblick auf einen Schadensersatzprozess ein Feststellungsinteresse
+nach § 113 Abs. 1 Satz 4 VwGO begründen. Voraussetzung ist jedoch, dass eine
+Klage auf Schadensersatz oder Entschädigung anhängig ist oder ihre alsbaldige Erhebung mit hinreichender Sicherheit zu erwarten ist (vgl. z.B. BVerwG, Urteile vom
+9. Oktober 1959 - BVerwG 5 C 165 und 166.57 - BVerwGE 9, 196, vom 6. Januar
+1964 - BVerwG 1 C 112.55 - Buchholz 310 § 113 VwGO Nr. 19). Dafür aber ist weder etwas festgestellt noch trägt die Beschwerde dazu substantiiert vor. In dem angestrebten Revisionsverfahren könnte sich daher allenfalls die Frage stellen, ob die
+
+                                          -4-
+
+
+Präjudizialität der gerichtlichen Feststellung auch im Hinblick auf eine nur theoretisch
+mögliche Schadensersatz- oder Entschädigungsklage ein Fortsetzungsfeststellungsinteresse zu begründen vermag. Diese Frage ist mit der erwähnten Rechtsprechung
+geklärt und zu verneinen. Darüber hinaus gilt Folgendes:
+
+
+aa) Entschädigungsansprüche könnten in einem etwaigen Revisionsverfahren klärungsbedürftige Fragen nicht aufwerfen. Welcher Art verschuldensunabhängige Entschädigungsansprüche der Kläger geltend machen will, hat er mit der Beschwerde
+nicht dargetan. Dass es verschuldensunabhängige verwaltungsrechtliche Ansprüche
+grundsätzlich geben kann, ist in der Rechtsprechung für den Folgenbeseitigungsanspruch anerkannt. In der Rechtsprechung ist aber auch geklärt, dass dieser Anspruch nicht auf einen Ausgleich immaterieller und materieller Schäden gerichtet ist,
+die durch eine rechtwidrig unterbliebene Beförderung verursacht sind: Das Unterlassen der Beförderung ist kein staatlicher Eingriff und mit dem geltend gemachten Anspruch soll nicht der frühere Status quo wiederhergestellt, sondern eine Veränderung
+herbeigeführt werden (vgl. BVerwG, Urteil vom 18. April 2002 - BVerwG 2 C 19.01 -
+Buchholz 237.95 § 20 SHLBG Nr. 2). Eine entsprechende Klage hätte also keine
+Aussicht auf Erfolg. Zur Vorbereitung einer derart aussichtslosen Klage kann auch
+ein Feststellungsinteresse im Sinne von § 113 Abs. 1 Satz 4 VwGO nicht bestehen.
+Das gilt gleichermaßen für eine auf "echte" Entschädigung, d.h. auf einen verschuldensunabhängigen Entschädigungsanspruch in Geld gerichtete Klage, für die eine
+gesetzliche Grundlage erforderlich wäre, aber nicht ersichtlich ist.
+
+
+bb) Für Schadensersatzansprüche des Beamten wegen Verletzung der im Beamtenverhältnis wurzelnden Pflichten ist wiederum durch die Rechtsprechung des Bundesverwaltungsgerichts geklärt, dass sie ein dem Dienstherrn zuzurechnendes schuldhaftes Handeln voraussetzen. Das gilt auch für die mit der Frage zu III. angesprochenen Schadensersatzansprüche wegen Verletzung der Fürsorgepflicht. Eine verschuldensunabhängige Schadensersatzpflicht des Dienstherrn kennt das geltende
+Recht nicht (BVerwG, Urteil vom 21. Dezember 2000 - BVerwG 2 C 39.99 -
+BVerwGE 112, 308). Da das Berufungsgericht ein Verschulden geprüft und in Übereinstimmung mit der ständigen Rechtsprechung des Bundesverwaltungsgerichts und
+dem dabei im Regelfall zu beachtenden Prüfungsmaßstab verneint hat, können sich
+auch insoweit keine ungeklärten grundsätzlich klärungsbedürftigen Rechtsfragen
+
+                                         -5-
+
+
+ergeben. Nach dieser Rechtsprechung vermag ein (ernstlich beabsichtigter) Schadensersatzprozess ein berechtigtes Interesse am Fortsetzungsfeststellungsantrag
+nicht zu begründen, wenn er offensichtlich aussichtslos ist, etwa wenn ein Verschulden trotz Verletzung einer Dienstpflicht auszuschließen ist; dies ist regelmäßig der
+Fall, wenn das als rechtswidrig und schadenstiftend angegriffene Verhalten der Behörde von einem mit mehreren Berufsrichtern besetzten Kollegialgericht als objektiv
+rechtmäßig beurteilt worden ist (BVerwG, Urteil vom 22. Januar 1998 - BVerwG 2 C
+4.97 - Buchholz 310 § 161 VwGO Nr. 113). Davon ist das Berufungsgericht ausgegangen. Es hat das Verhalten der für den Beklagten handelnden Behörde dahin gewürdigt, dass dieser wegen ihrer Entscheidung gegen eine Beförderung des Klägers
+zum 1. Dezember 2002 kein dem Beklagten zurechenbarer Verschuldensvorwurf gemacht werden könne. Die damalige ablehnende Entscheidung sei vom Schleswig-Holsteinischen Verwaltungsgericht, einem Kollegialgericht, für rechtmäßig erachtet
+worden.
+
+
+2. Nicht klärungsfähig und auch nicht klärungsbedürftig ist die unter IV. der Beschwerde aufgeworfene Frage:
+
+
+     IV. Besteht ein berechtigtes Interesse nach § 113 Abs. 1 Satz 4 VwGO in Form
+     des Interesses wegen Präjudizialität für Schadensersatz- oder Entschädigungsansprüche dann, wenn das das Verschulden der Behörde im Regelfall ausschließende Urteil eines Kollegialgerichts ersichtlich rechtsfehlerhaft die Grundsätze der Bestenauslese falsch gewichtet und fehlerhaft annimmt, dass Dienstund Lebensalter eines Beamten als nachrangiger Auswahlkriterien nicht nur
+     dann Bedeutung bei Beförderung eines Bewerbers erlangen können, wenn es
+     sich um gleichwertig beurteilte Bewerber handelt?
+
+
+Die Frage übergeht eine anderweitige Klärung in der Rechtsprechung: Die kollegialgerichtliche Billigung des Verwaltungshandelns als rechtmäßig schließt behördliches
+Verschulden nur dann nicht aus, wenn besondere Umstände dafür sprechen, dass
+die Behördenbediensteten es "besser" hätten wissen müssen; das kann namentlich
+dann der Fall sein, wenn das Gericht von einem falschen Sachverhalt ausgegangen
+ist (vgl. BVerwG, Urteil vom 29. Februar 1996 - BVerwG 7 C 62.94 - Buchholz 428.2
+§ 10 VZOG Nr. 4 S. 10) oder eine eindeutige Vorschrift h a n d g r e i f l i c h falsch
+
+                                         -6-
+
+
+ausgelegt hat (vgl. BVerwG, Urteile vom 14. Dezember 1994 - BVerwG 11 C 21.93 -
+Buchholz 442.16 § 27 StVZO Nr. 4 S. 5 und - BVerwG 11 C 25.93 - Buchholz
+442.151 § 45 StVO Nr. 31 S. 20 jeweils mit Hinweisen auf die Rspr des BGH; ferner
+BVerwG, Urteile vom 21. September 2000 - BVerwG 2 C 5.99 - Buchholz 237.1
+Art. 86 BayLBG Nr. 10 und vom 27. Februar 2003 - BVerwG 2 C 16.02 - Buchholz
+237.6 § 8 NdsLBG Nr. 10). Diese Voraussetzungen liegen hier nicht vor, und zwar
+selbst dann nicht, wenn man unterstellt, dass die Rechtsauffassung des Verwaltungsgerichts dem neuesten Stand der Rechtsprechung des Bundesverwaltungsgerichts widerspricht (vgl. dazu schon Urteil vom 27. Februar 2003 a.a.O.). Veranlassung zu einer weitergehenden rechtsgrundsätzlichen Klärung hat die Beschwerde
+nicht dargelegt. Dass die Formel vom Erfordernis einer handgreiflich falschen Auslegung eindeutiger Vorschriften unzureichend wäre oder für bestimmte Fallgruppen
+nicht zu angemessenen Ergebnissen führen würde, wird nicht erörtert. Es werden nur
+Gründe genannt, warum die erstinstanzliche Entscheidung des Verwaltungsgerichts
+unzutreffend sein soll. Derartig am Einzelfall ausgerichtete Ausführungen zum
+Verschulden reichen zur Darlegung einer grundsätzlichen Bedeutung der Rechtssache nicht aus.
+
+
+3. Nicht klärungsbedürftig ist schließlich auch die zu II. der Beschwerdebegründung
+als rechtsgrundsätzlich bedeutsam bezeichnete Frage:
+
+
+     II. Besteht ein berechtigtes Interesse des Klägers nach § 113 Abs. 1 Satz 4
+     VwGO in Form des so genannten Rehabilitationsinteresses dann, wenn nach
+     dem Urteil eines Kollegialgerichts - hier: VG - bei einer Bescheidungs- oder
+     Verpflichtungsklage der begehrte Verwaltungsakt sich durch ein Ereignis der
+     überholenden Kausalität - hier: anderweitige Beförderung/Versetzung - erledigt,
+     der Klagegegner aber in einem vorgeschalteten Verfahren des einstweiligen
+     Rechtsschutzes die Zusicherung gegeben hat, die Rückwirkung einer begehrten
+     Begünstigung bei erfolgreichem Hauptsacheverfahren auszusprechen?
+
+
+In der Rechtsprechung ist geklärt, welcher Art ein Rehabilitationsbedürfnis sein
+muss, um ein Fortsetzungsfeststellungsinteresse zu begründen, insbesondere, dass
+dieses Bedürfnis nach Genugtuung durch diskriminierendes Verwaltungshandeln und
+dem innewohnende Beeinträchtigungen des Persönlichkeitsrechts (bzw. des mit
+
+                                          -7-
+
+
+Persönlichkeitsrechten der Kinder korrespondierenden elterlichen Erziehungsrechts)
+oder sonstiger grundrechtsgeschützter ideeller Interessen ausgelöst werden kann
+(vgl. BVerwGE 53, 134 <138>; 61, 164 <166 f.>). Die Beschwerde hat nicht andeutungsweise dargetan, inwieweit ein erweitertes Verständnis des Rehabilitationsbedürfnisses erforderlich sein soll und der Kläger thematisch insoweit überhaupt betroffen sein könnte. Es ist auch sonst nichts dafür ersichtlich, dass der Kläger eine Diskriminierung erlitten hätte, die durch die gewünschte gerichtliche Feststellung kompensiert werden könnte: Die Beförderung des Klägers unterblieb zum 1. Dezember
+2002 mit Blick auf eine "Mindestabstandsfrist". Allein aus diesem Grunde kam der
+Kläger erst ein Jahr später zum Zuge. Dadurch werden seine Leistungen und seine
+Eignung nicht infrage gestellt oder abgewertet.
+
+
+Die Kostenentscheidung beruht auf § 154 Abs. 2 VwGO; die Festsetzung des Streitwertes ergibt sich in entsprechender Anwendung des § 52 Abs. 5 Satz 2 i.V.m.
+Satz 1 Nr. 1 GKG.
+
+
+
+
+Prof. Dawin                             Dr. Kugele                            Dr. Heitz
