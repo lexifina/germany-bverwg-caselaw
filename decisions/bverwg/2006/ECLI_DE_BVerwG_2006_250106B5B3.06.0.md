@@ -1,0 +1,121 @@
+---
+ecli: "ECLI:DE:BVerwG:2006:250106B5B3.06.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "5"
+aktenzeichen: "5 B 3.06"
+decided: "2006-01-25"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/250106B5B3.06.0.pdf"
+corpus_doc_id: "BVerwG_2006-01-25_B_5_B_3_06_NA_0.txt"
+cites_law: ["germany/bund/acts/bvfg/0006.md", "germany/bund/acts/gkg_2004/0072.md", "germany/bund/acts/vwgo/0132.md", "germany/bund/acts/vwgo/0162.md"]
+---
+
+# Bundesverwaltungsgericht, 5 B 3.06 vom 2006-01-25
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                      BESCHLUSS
+
+BVerwG 5 B 3.06
+OVG 2 A 4516/03
+
+
+
+                  In der Verwaltungsstreitsache
+
+                                        -2-
+
+
+hat der 5. Senat des Bundesverwaltungsgerichts
+am 25. Januar 2006
+durch den Vorsitzenden Richter am Bundesverwaltungsgericht Dr. S ä c k e r und
+die Richter am Bundesverwaltungsgericht Dr. R o t h k e g e l und Dr. F r a n k e
+
+
+beschlossen:
+
+
+          Die Beschwerde der Kläger gegen die Nichtzulassung der
+          Revision in dem Beschluss des Oberverwaltungsgerichts für
+          das Land Nordrhein-Westfalen vom 6. Oktober 2005 wird zurückgewiesen.
+
+          Die Kläger tragen die Kosten des Beschwerdeverfahrens.
+
+          Der Wert des Streitgegenstandes wird für das Beschwerdeverfahren auf 20 000 € festgesetzt.
+
+
+
+                                    Gründe:
+
+
+<rd nr="1"/>Die Beschwerde gegen die Nichtzulassung der Revision in dem Beschluss des Oberverwaltungsgerichts hat keinen Erfolg; das Beschwerdevorbringen
+rechtfertigt nicht die Zulassung der Revision unter dem allein geltend gemachten
+Gesichtspunkt der grundsätzlichen Bedeutung (§ 132 Abs. 2 Nr. 1 VwGO).
+
+
+<rd nr="2"/>Die Beschwerde wirft als rechtsgrundsätzlich bedeutsam die Frage auf,
+
+     "durch welche Umstände ein Bekenntnis auf 'vergleichbare Weise' im Sinne von
+     § 6 Abs. 2 S. 1 BVFG gekennzeichnet ist, wenn der Betreffende zuvor eine
+     - unbeachtliche Nationalitätenerklärung - zu einer nichtdeutschen Bevölkerungsgruppe abgegeben hatte, insbesondere welche Anforderungen dann an
+     die öffentliche Präsentation kultureller Merkmale wie feiern deutscher Feste und
+     Feiertage wie Weihnachten, Pfingsten, Ostern und Silvester und öffentliche
+     Selbstbezeichnung als deutscher Volkszugehöriger, so dass dies einer unbestimmten Vielzahl außenstehender Dritte bekannt wurde, zu stellen sind".
+
+<rd nr="3"/>Diese Rechtsfrage sei bisher in der höchstrichterlichen Rechtsprechung
+noch nicht konkret geklärt worden; in den von der Vorinstanz genannten Urteilen des
+Bundesverwaltungsgerichts vom 13. November 2003 (BVerwG 5 C 14.03 <BVerwGE
+119, 188>, BVerwG 5 C 40.03 <BVerwGE 119, 192> und BVerwG 5 C 41.03 <Buchholz 412.3 § 6 BVFG Nr. 104) sowie dem Beschluss vom 8. Februar 2005 (BVerwG
+
+                                         -3-
+
+
+5 B 128.04 <juris>) werde lediglich grundsätzlich auf das Erfordernis der Darlegung
+eines Bekenntnisses auf vergleichbare Weise hingewiesen und es müssten
+
+     "klare Leitlinien gefunden werden, um ein lediglich nach innen wirkendes kulturelles Bekenntnis zur deutschen Bevölkerungsgruppe abzugrenzen von nach
+     außen wirkenden Bekenntnishandlungen, die im privaten Bereich wurzeln, aber
+     Öffentlichkeitscharakter im Sinne eines Bekenntnisses haben".
+
+<rd nr="4"/>Diese Fragen und Darlegungen rechtfertigen die Zulassung der Revision
+nicht. Damit ist zwar in allgemeiner Weise das grundsätzliche Problem einer Abgrenzung zwischen einer lediglich nach innen wirkenden Betätigung kultureller Prägungen
+und Merkmale wie dem Feiern deutscher Fest- und Feiertage und nach außen
+wirkenden Handlungen mit Bekenntnischarakter angesprochen, doch betrifft dies
+schon nach der Formulierung der Frage die einzelfallbezogene Würdigung des
+Sachverhalts unter dem Gesichtspunkt, ob die Öffentlichkeitswirksamkeit der Handlungen nach Gewicht, Aussagekraft und Nachweisbarkeit der Nationalitätenerklärung
+entspricht und sie in einer der Nationalitätenerklärung nahe kommenden Weise über
+das familiäre Umfeld hinaus nach außen hervorgetreten sind. Für die von der Klägerin zu 1 im Einzelnen vorgetragenen Umstände wie den Gebrauch der deutschen
+Sprache, Beachtung deutscher Bräuche, Hören deutscher Radiosendungen und Korrespondenz mit deutschen Schülern hat das Oberverwaltungsgericht die Bedeutung
+und Aussagekraft eines der Nationalitätenerklärung gleichkommenden Verhaltens
+verneint, ohne dass insoweit ein rechtsgrundsätzlicher Klärungsbedarf erkennbar
+würde. Das Gleiche gilt für die rechtliche Bewertung der von der Klägerin zu 1 für die
+Zeit bis in die 90-er Jahre vorgetragenen gesellschaftlichen, sozialen oder kulturellen
+Aktivitäten, welche nach Auffassung der Vorinstanz für ein Bekenntnis auf vergleichbare Weise nicht ausreichen bzw. nicht hinreichend konkretisiert sind. Die Bemühungen um eine Änderung des ukrainischen Nationalitäteneintrags im ersten Inlandspass aus dem Jahre 1979 schließlich hat die Vorinstanz als zu spät und zu wenig nachhaltig angesehen, um für den gesamten Zeitraum zwischen Bekenntnisfähigkeit und Verlassen der Aussiedlungsgebiete von einem durchgängigen Bekenntnis
+auf der Nationalitätenerklärung vergleichbare Weise ausgehen zu können. Soweit die
+Nichtzulassungsbeschwerde von einer Revision über die in rechtsgrundsätzlicher
+Hinsicht bereits in den genannten Entscheidungen geklärten Anforderungen an ein
+(durchgängiges) Bekenntnis bzw. ein Bekenntnis auf der Nationalitätenerklärung
+vergleichbaren Weise hinaus die Erstellung allgemeiner "Leitlinien" erwartet, welche
+
+                                         -4-
+
+
+nach Art normauslegender Verwaltungsvorschriften eine Auflistung und Bewertung
+von Verhaltensweisen vornehmen, welche als ein Bekenntnis "auf vergleichbare
+Weise" in Betracht kommen, ist dies nicht Aufgabe der revisionsgerichtlichen Überprüfung.
+
+
+<rd nr="5"/>Die Kostenentscheidung beruht auf § 154 Abs. 2, § 162 Abs. 3 VwGO,
+die Streitwertfestsetzung auf § 47 Abs. 3, § 52 Abs. 2, § 72 Nr. 1 GKG i.d.F. des
+Kostenrechtsmodernisierungsgesetzes vom 5. Mai 2004 (BGBl I S. 718).
+
+
+
+
+Dr. Säcker                            Dr. Rothkegel                        Dr. Franke
