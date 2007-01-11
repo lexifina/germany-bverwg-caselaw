@@ -1,0 +1,325 @@
+---
+ecli: "ECLI:DE:BVerwG:2007:110107B1WDSVR8.06.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 WDS-VR 8.06"
+decided: "2007-01-11"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/110107B1WDS-VR8.06.0.pdf"
+corpus_doc_id: "BVerwG_2007-01-11_B_1_WDS-VR_8_06_NA_0.txt"
+cites_law: ["germany/bund/acts/bpersvg_2021/0038.md", "germany/bund/acts/sbg_2016/0001.md", "germany/bund/acts/sbg_2016/0002.md", "germany/bund/acts/sbg_2016/0020.md", "germany/bund/acts/sbg_2016/0023.md", "germany/bund/acts/sbg_2016/0049.md", "germany/bund/acts/sbg_2016/0052.md", "germany/bund/acts/sg/0012.md", "germany/bund/acts/sg/0025.md", "germany/bund/acts/soldurlv/0009.md", "germany/bund/acts/wbo/0003.md", "germany/bund/acts/wbo/0017.md", "germany/bund/acts/wbo/0021.md"]
+---
+
+# Bundesverwaltungsgericht, 1 WDS-VR 8.06 vom 2007-01-11
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                              BESCHLUSS
+
+BVerwG 1 WDS-VR 8.06
+
+
+                        In dem Wehrbeschwerdeverfahren
+
+
+des Herrn Hauptgefreiten …,
+…,
+
+
+-   Bevollmächtigter:
+    Rechtsanwalt …,
+    … -
+
+
+hat der 1. Wehrdienstsenat des Bundesverwaltungsgerichts durch
+
+
+    den Vorsitzenden Richter am Bundesverwaltungsgericht Golze,
+    die Richterin am Bundesverwaltungsgericht Dr. Frentz und
+    den Richter am Bundesverwaltungsgericht Dr. Deiseroth
+
+
+
+am 11. Januar 2007 beschlossen:
+
+
+          Die aufschiebende Wirkung der Beschwerde des Antragstellers vom 14. Dezember 2006 gegen die Kommandierungs- und Versetzungsverfügung der Stammdienststelle
+          der Luftwaffe vom 8. Dezember 2006 wird angeordnet.
+
+          Die dem Antragsteller im Verfahren vor dem Bundesverwaltungsgericht erwachsenen notwendigen Auslagen werden dem Bund auferlegt.
+
+                                         -2-
+
+
+                                     Gründe:
+
+                                           I
+
+
+1   Der 1983 geborene Antragsteller ist Soldat auf Zeit mit einer festgesetzten
+    Dienstzeit von vier Jahren, die voraussichtlich mit Ablauf des 31. März 2009
+    enden wird. Zum Hauptgefreiten wurde er am 21. April 2006 ernannt. Seit dem
+    13. März 2006 wird er beim B… (B… US/CA) in R. (USA) verwendet; in der
+    zugrundeliegenden Versetzungsverfügung der Stammdienststelle der Luftwaffe
+    (SDL) vom 1. März 2006 war seine voraussichtliche Verwendungsdauer ursprünglich bis zum 31. März 2009 festgesetzt worden.
+
+
+2   Am 26. Oktober 2006 eröffnete der Kommandant S… (Kdt S…) B… US/CA
+    dem Antragsteller den Entwurf eines Antrages auf dessen sofortige vorzeitige
+    Rückversetzung in das Inland. Der Antrag war auf einen nicht mehr hinzunehmenden großen Vertrauensverlust mit der Begründung gestützt, es bestehe der
+    Verdacht, dass der Antragsteller am 16. September 2006 um ca. 1.00 Uhr zusammen mit zwei anderen Soldaten versucht habe, die verschlossene Zimmertür des Stabsgefreiten (StGefr) B. zu öffnen, wobei die Soldaten ein Luftgewehr
+    mit Zielfernrohr und eine Halogenstehlampe mit sich geführt hätten; der Öffnungsversuch der beiden beteiligten Soldaten sei mittels eines nicht näher identifizierbaren Gegenstandes und einer Scheckkarte erfolgt, wobei der Antragsteller den Vorgang gefilmt und kommentiert habe. Ferner bestehe der Verdacht, dass der Antragsteller am 19. August 2006 um ca. 21.22 Uhr in R. mit
+    einem weißen Ford Mustang (vermutlich seinem eigenen Fahrzeug) ein so genanntes „Wheeling“ (Fahren mit quietschenden Reifen, Schleudern und mit angezogener Handbremse die Reifen durchdrehen lassen) auf dem Parkplatz der
+    Liegenschaft des Dienstgebäudes R. durchgeführt, dabei an einigen Stellen die
+    obere Schutzschicht des Parkplatzes beschädigt und durch schwere Bremsund Anfahrtsspuren den Parkplatz nachhaltig beschädigt habe. Daraufhin beantragte der Antragsteller am selben Tag die Beteiligung der Vertrauensperson
+    und legte am 30. Oktober 2006 eine Stellungnahme vor. Am 31. Oktober 2006
+    erfolgte die Anhörung des Stabsfeldwebels M., der sich unter der Überschrift
+    „Anhörung VP-S… B… US/CA“ als Vertrauensperson der Unteroffiziere und
+
+                                         -3-
+
+
+    Mannschaften äußerte. Die Endfassung des Versetzungsantrages des Kdt S…
+    B… US/CA vom 31. Oktober 2006 wurde dem Antragsteller am selben Tag eröffnet.
+
+
+3   Im Hinblick auf dessen neuerliche Stellungnahme vom 1. November 2006 erstellte der Kdt S… B… US/CA unter dem 3. November 2006 einen neuen Entwurf seines Antrages auf vorzeitige Rückversetzung ins Inland, bei dessen Eröffnung der Antragsteller am 3. November 2006 einer Anhörung der Vertrauensperson nicht zustimmte.
+
+
+4   Unter Berücksichtigung einer weiteren Stellungnahme des Antragstellers vom
+    6. November 2006 legte der Kdt S… B… US/CA am 6. November 2006 die
+    Endfassung seines Versetzungsantrages vor, in der er im Wesentlichen die
+    Feststellungen in seinem ersten Entwurf eines Versetzungsantrages vom
+    26. Oktober 2006 bestätigte. Den mit diesem Dienstvergehen begangenen Vertrauensbruch des Antragstellers betrachte er als endgültig; es lägen Vertrauensverluste, Störungen und Spannungen vor, die den Dienstbetrieb unannehmbar belasteten. Bei der Eröffnung dieser Endfassung des Versetzungsantrages stimmte der Antragsteller am 6. November 2006 einer Anhörung der
+    Vertrauensperson nicht zu.
+
+
+5   Der Stellvertreter des Kommandeurs und Chef des Stabes sowie der Kommandeur B… US/CA befürworteten in ihren Stellungnahmen vom 15. und
+    20. November 2006 als höhere Vorgesetzte die vorzeitige Rückversetzung des
+    Antragstellers in das Inland.
+
+
+6   Nach Vororientierung des Antragstellers am 7. Dezember 2006 ordnete die SDL
+    mit Kommandierungs- und Versetzungsverfügung vom 8. Dezember 2006 die
+    Versetzung des Antragstellers zur 2./F… in S. zum 1. Januar 2007 mit
+    Dienstantritt am 28. Dezember 2006 an.
+
+
+7   Gegen diese Entscheidung legte der Antragsteller mit Schreiben vom 14. Dezember 2006 Beschwerde ein und beantragte die Aufhebung der Versetzungsverfügung, die Feststellung ihrer Rechtswidrigkeit sowie gleichzeitig „die ge-
+
+                                            -4-
+
+
+     richtliche Entscheidung“. Mit Schreiben vom selben Tag beantragte sein Bevollmächtigter beim Senat die Gewährung vorläufigen Rechtsschutzes. Zu diesem Antrag hat der Bundesminister der Verteidigung (BMVg) - PSZ I 7 - mit
+     Schreiben vom 4. Januar 2007 Stellung genommen, nachdem er zuvor mit Bescheid vom 28. Dezember 2006 den Antrag auf Erlass einer vorläufigen Maßnahme nach § 3 Abs. 2 WBO abgelehnt hatte. Den geplanten Dienstantritt verlegte die SDL am 14. Dezember 2006 auf den 15. Januar 2007.
+
+
+8    Zur Begründung seines Rechtsschutzbegehrens trägt der Antragsteller insbesondere vor:
+     Die angefochtene Verfügung der SDL sei ermessensfehlerhaft und damit
+     rechtswidrig, weil die erforderliche Anhörung der Personalvertretung grundsätzlich vor Erlass der Verfügung zu erfolgen habe. Die durchgeführte Anhörung
+     des Personalrats vom 15. Dezember 2006 sei verspätet erfolgt. Insoweit sei
+     auch fraglich, ob der zuständige Personalrat über den Sachverhalt umfassend
+     und rechtzeitig informiert und angehört worden sei. In der Sache sei das ihm
+     vorgeworfene Verhalten nicht geeignet, Spannungen im Dienstbetrieb des B…
+     US/CA anzunehmen. Nachweisbar habe er zu keinem Zeitpunkt eine Person
+     bedroht, genötigt oder sonst pflichtwidrig auf sie eingewirkt.
+
+
+9    Der Antragsteller beantragt,
+
+               die aufschiebende Wirkung der Beschwerde vom 14. Dezember 2006 gegen die Kommandierungs- und Versetzungsverfügung der SDL vom 8. Dezember 2006 und „den
+               zugleich gestellten Antrag auf gerichtliche Entscheidung“
+               anzuordnen.
+
+10   Der BMVg beantragt,
+
+               den Antrag zurückzuweisen.
+
+11   Nach dem objektiven, auch vom Antragsteller insoweit eingeräumten Handlungsablauf sei der Verdacht eines schwerwiegenden Dienstvergehens gegen
+     ihn begründet, insbesondere ein Verstoß gegen seine soldatischen Pflichten
+     aus § 17 Abs. 2 Satz 2 und § 12 SG. Der Eindringversuch in das Zimmer des
+     StGefr B. mit Hilfe einer Scheckkarte bzw. eines anderen Gegenstandes sowie
+
+                                          -5-
+
+
+     mit dem Einsatz eines Deckenfluters und eines Luftgewehrs offenbare eine
+     grundsätzliche Missachtung der Persönlichkeitssphäre des Kameraden, verbunden mit der Absicht, diesen mit einer Angst- bzw. Schocksituation zu konfrontieren. Das Festhalten des Eindringversuches mit einer Digitalkamera sei
+     geeignet gewesen, die zu erwartenden Reaktionen des StGefr B. zur fortdauernden Belustigung bzw. Zurschaustellung des Kameraden vorzuhalten. Die
+     Handlungen der StGefr H. und P. habe der Antragsteller dadurch geduldet. Eine
+     solche Verhaltensweise belege die Einschätzung des Disziplinarvorgesetzten,
+     dass ein vertrauensvolles kameradschaftliches Miteinander in der Zukunft
+     dauerhaft nicht mehr möglich sein werde. Die Verfahrensvorgaben für eine
+     „Spannungsversetzung“ seien eingehalten worden. Zwar habe die am
+     31. Oktober 2006 eingeholte Stellungnahme des Gruppensprechers der Soldaten im örtlichen Personalrat des B… US/CA nicht den Anforderungen des § 52
+     Abs. 1 i.V.m. § 23 Abs. 1 Satz 1 Nr. 1 und § 20 SBG genügt. Vielmehr sei im
+     Fall der Versetzung eines Soldaten vom Dienststellenleiter der zuständige Personalrat zu beteiligen. Dort habe die Gruppe der Soldaten nach den Vorgaben
+     des § 38 BPersVG durch einen Gruppenbeschluss die Stellungnahme zur beabsichtigten Personalmaßnahme abzugeben. Ein einzelner Soldatenvertreter
+     aus dem örtlichen Personalrat könne in diesem Fall nicht die Funktion einer
+     Vertrauensperson ausüben. Auf Weisung des BMVg sei dem Antragsteller am
+     14. Dezember 2006 die Gelegenheit gegeben worden, eine Anhörung des Personalrats des B… US/CA zu der Versetzungsmaßnahme zu beantragen. Einen
+     entsprechenden Antrag habe der Antragsteller am 14. Dezember 2006 gestellt.
+     Der Vorsitzende des gemeinsamen örtlichen Personalrates des B… US/CA und
+     der B…st… US/CA habe dem Kdt S… B… US/CA am 15. Dezember 2006 mitgeteilt, dass die Soldatengruppe des gemeinsamen örtlichen Personalrates mit
+     Beschluss 058/06 der vorzeitigen Versetzung des Antragstellers zustimme.
+     Damit sei der ursprünglich festzustellende Anhörungsmangel geheilt worden.
+
+
+12   Wegen des Vorbringens im Einzelnen wird auf den Inhalt der zwischen den Beteiligten gewechselten Schriftsätze und der Akten Bezug genommen. Die Beschwerdeakte des BMVg - PSZ I 7 - 929/06 - sowie die Personalgrundakte des
+     Antragstellers haben dem Senat bei der Beratung vorgelegen.
+
+                                           -6-
+
+
+
+
+                                             II
+
+
+13   Der Antrag ist nach § 17 Abs. 6 Satz 2 i.V.m. § 21 Abs. 1, Abs. 2 Satz 1 WBO
+     zulässig.
+
+
+14   Gegenstand des Rechtsschutzbegehrens ist bei sachgerechter Auslegung - im
+     gegenwärtigen Verfahrensstadium - die vom Antragsteller angestrebte Anordnung der aufschiebenden Wirkung (lediglich) seiner Beschwerde vom 14. Dezember 2006 gegen die Kommandierungs- und Versetzungsverfügung der SDL
+     vom 8. Dezember 2006. Soweit der Antragsteller auch „den zugleich gestellten
+     Antrag auf gerichtliche Entscheidung“ in seinen Antrag einbezogen hat, geht
+     der Senat bei der hier gebotenen summarischen Prüfung davon aus, dass dieser Teil des Antrags nur vorsorglich für den Fall formuliert worden ist, dass sehr
+     zeitnah ein gerichtlich anfechtbarer Beschwerdebescheid ergeht. Da der BMVg
+     - PSZ I 7 - im Übrigen dem Antrag vom 14. Dezember 2006 sinngemäß auch
+     einen Antrag nach § 3 Abs. 2 WBO entnommen und diesen mit Bescheid vom
+     28. Dezember 2006 abgelehnt hat, ist im Ergebnis die Zulässigkeitsvoraussetzung des § 17 Abs. 6 Satz 3 WBO erfüllt.
+
+
+15   Der Antrag ist auch begründet.
+
+
+16   Der Gesetzgeber hat dem öffentlichen Interesse an der sofortigen Vollziehbarkeit truppendienstlicher Maßnahmen grundsätzlich den Vorrang vor privaten
+     Belangen eingeräumt (§ 17 Abs. 6 Satz 1 WBO). Die Anordnung der aufschiebenden Wirkung kommt deshalb nur in Betracht, wenn sich bereits bei summarischer Prüfung durchgreifende Zweifel an der Rechtmäßigkeit der angefochtenen Maßnahme ergeben oder dem Soldaten durch deren sofortige Vollziehung
+     unzumutbare, insbesondere nicht wiedergutzumachende Nachteile entstünden
+     (stRspr, u.a. Beschlüsse vom 27. März 1979 - BVerwG 1 WB 193.78 -
+     BVerwGE 63, 210 <211 f.>, vom 4. Dezember 1995 - BVerwG 1 WB 106.95 -
+     Buchholz 236.1 § 25 SG Nr. 1, vom 20. Februar 2002 - BVerwG 1 WB 5.02 -
+     Buchholz 236.12 § 9 SUV Nr. 7 und vom 13. November 2003 - BVerwG 1 WB
+     40.03 -).
+
+                                          -7-
+
+
+
+
+17   Die erstgenannte Voraussetzung ist hier erfüllt, weil auf der Grundlage einer im
+     vorliegenden Verfahren allein möglichen summarischen Überprüfung durchgreifende Bedenken gegen die Rechtmäßigkeit der angefochtenen Kommandierungs- und Versetzungsverfügung bestehen.
+
+
+18   Die Verfügung der SDL ist wegen eines Ermessensfehlers rechtswidrig, weil vor
+     ihrem Erlass keine rechtsfehlerfreie Anhörung nach § 23 Abs. 1 Satz 1 Nr. 1
+     i.V.m. § 52 Abs. 1 SBG zu der beabsichtigten Personalmaßnahme erfolgte.
+     Deshalb liegt ein Ermessensfehlgebrauch vor.
+
+
+19   Der Soldat hat grundsätzlich keinen Anspruch auf eine bestimmte fachliche
+     oder örtliche Verwendung oder auf Verwendung auf einem bestimmten Dienstposten. Ein dahingehender Anspruch lässt sich auch nicht aus der Fürsorgepflicht ableiten. Vielmehr entscheidet der zuständige Vorgesetzte bzw. die zuständige personalbearbeitende Stelle über die Verwendung eines Soldaten,
+     sofern hierfür ein dienstliches Bedürfnis besteht, nach pflichtgemäßem Ermessen. Während das Vorliegen eines dienstlichen Bedürfnisses als unbestimmter
+     Rechtsbegriff gerichtlich voll nachprüfbar ist, kann die Ermessensentscheidung
+     nur daraufhin überprüft werden, ob der Vorgesetzte oder die zuständige Stelle
+     den Soldaten durch Überschreiten oder Missbrauch dienstlicher Befugnisse in
+     seinen Rechten verletzt bzw. die gesetzlichen Grenzen des ihm/ihr insoweit
+     zustehenden Ermessens überschritten oder von diesem in einer dem Zweck der
+     Ermächtigung nicht entsprechenden Weise Gebrauch gemacht hat. In diesem
+     Zusammenhang ist insbesondere zu prüfen, ob die gesetzlich vorgegebenen
+     oder vom BMVg im Wege der Selbstbindung in Erlassen und Richtlinien
+     festgelegten Verfahrensvorschriften eingehalten sind (stRspr, z.B. Beschluss
+     vom 27. Februar 2003 - BVerwG 1 WB 57.02 - BVerwGE 118, 25 = Buchholz
+     252 § 23 SBG Nr. 2 = NZWehrr 2003, 212 m.w.N.).
+
+                                           -8-
+
+
+20   Die SDL hat vorliegend gegen § 23 Abs. 2 Satz 2 SBG verstoßen. Bei ihrer Ermessensentscheidung hat sie als zuständige Stelle zwingend das Ergebnis der
+     Anhörung der Vertrauensperson in die zu treffende Personalentscheidung einzubeziehen, sofern die Vertrauensperson auf Antrag des Soldaten zu einer beteiligungsfähigen Maßnahme anzuhören ist. Entsprechendes gilt für Maßnahmen bei Soldaten, die in einer personalratsfähigen Dienststelle verwendet werden, gemäß § 48 Satz 1, § 49 Abs. 1 Satz 1 und 2, Abs. 2 Satz 3 und § 52
+     Abs. 1 SBG.
+
+
+21   Die beabsichtigte Rückversetzung des Antragstellers aus dem Ausland nach
+     Deutschland löste eine Beteiligungspflicht nach § 23 Abs. 1 Satz 1 Nr. 1 SBG
+     aus. Eine Versetzung stellt nach dieser Vorschrift nicht nur eine beteiligungsfähige, sondern in der Regel auch eine beteiligungspflichtige Maßnahme dar (Beschlüsse vom 27. Februar 2003 a.a.O. und vom 20. Juni 2005 - BVerwG 1 WB
+     28.05 -). Ein Ausnahmefall, der ein Absehen von der Beteiligung rechtfertigt, ist
+     hier nicht feststellbar.
+
+
+22   Die am 31. Oktober 2006 angehörte „Vertrauensperson der Unteroffiziere und
+     Mannschaften“ war im Falle des Antragstellers nicht das richtige Beteiligungsorgan im Sinne des § 1 Abs. 2 SBG. Bei dem B… US/CA handelt es sich um
+     eine personalratsfähige Dienststelle im Sinne des § 49 Abs. 1 Satz 1 und 2
+     SBG i.V.m. Nr. 1 3. Spiegelstrich der Anlage 4 zur ZDV 10/2, sodass nach § 52
+     Abs. 1 Satz 1 SBG „die Soldatenvertreter“, also die in dieser Dienststelle in den
+     Personalrat gewählten Soldaten, in Angelegenheiten, die nur die Soldaten
+     betreffen, die Befugnisse der Vertrauensperson haben. Eine solche „Angelegenheit“ ist die Versetzung im Sinne des § 23 Abs. 1 Satz 1 Nr. 1 SBG. Der
+     BMVg - PSZ I 7 - hat vorgetragen, dass bei dem B… US/CA und der B…st…
+     US/CA ein gemeinsamer örtlicher Personalrat gebildet worden ist. Diese Mitteilung hat der Antragsteller nicht in Zweifel gezogen. Der Senat geht deshalb im
+     vorliegenden summarischen Verfahren davon aus, dass diesem gemeinsamen
+     örtlichen Personalrat in Gestalt der nach § 48 Satz 1, § 49 Abs. 2 Satz 3 SBG
+     i.V.m. § 38 Abs. 2 Satz 1 BPersVG zur Entscheidung berufenen Soldatenvertreter die Beteiligungsrechte nach § 23 SBG zugewiesen sind. Demzufolge war
+     nach § 52 Abs. 1 Satz 1 i.V.m. § 23 Abs. 1 Satz 1 Nr. 1 SBG der gemeinsame
+
+                                           -9-
+
+
+     örtliche Personalrat beim B… US/CA und der B…st… US/CA vor der Versetzungsentscheidung der SDL anzuhören.
+
+
+23   Für diese Anhörung hatte der Antragsteller am 26. Oktober 2006 einen inhaltlich hinreichend bestimmten Antrag gestellt. Nach der Rechtsprechung des Senats muss ein Anhörungsantrag gemäß § 23 Abs. 1 Satz 1 SBG zu der jeweils
+     beabsichtigten konkreten Einzelmaßnahme gestellt werden (Beschluss vom
+     27. Februar 2003 a.a.O.). Diesem Erfordernis hat der Antragsteller am 26. Oktober 2006 bei der Eröffnung des Entwurfs zum Versetzungsantrag vom selben
+     Tage Rechnung getragen. Soweit er darin „die Beteiligung der Vertrauensperson der Mannschaften gemäß Belehrung vom 13.10.06“ als gewünschtes Beteiligungsorgan angegeben hat, entzieht diese Bezeichnung seinem Beteiligungsbegehren nicht die Grundlage. Aus dieser Formulierung entnimmt der
+     Senat, dass diese Belehrung offenbar nicht den Hinweis auf die Möglichkeit der
+     Beteiligung des Personalrats enthielt. Die Erklärung des Antragstellers vom
+     26. Oktober 2006 ist deshalb sinngemäß dahin auszulegen, dass er die Beteiligung des für ihn zuständigen Beteiligungsorgans wünschte.
+
+
+24   Diesen Beteiligungsantrag hat der Antragsteller in der Folgezeit nicht zurückgenommen. Seine Erklärungen am 3. und 6. November 2006 gegenüber dem Kdt
+     S… B… US/CA, er stimme „einer Anhörung der Vertrauensperson nicht zu“,
+     sind insoweit unerheblich. Denn zu diesem Zeitpunkt war der Antragsteller
+     - weiterhin - entgegen § 23 Abs. 1 Satz 2 SBG nicht schriftlich über das in seinem Fall „richtige“ Beteiligungsorgan im Sinne des § 1 Abs. 2 SBG belehrt worden. Der Schutzzweck der Norm des § 23 Abs. 1 Satz 2 SBG gebietet es, den
+     von einer Personalmaßnahme im Sinne des § 23 Abs. 1 Satz 1 SBG betroffenen Soldaten nicht nur abstrakt über „irgendeine“ Beteiligungsmöglichkeit zu
+     belehren, sondern ihn exakt über das Beteiligungsorgan zu informieren, dessen
+     Beteiligung in seinem konkreten Einzelfall beantragt werden kann. Nur dann hat
+     der Soldat eine vollständige Informationsgrundlage für seine Entscheidung, ob
+     er gerade dieses Beteiligungsorgan in sein Verfahren einbeziehen will oder
+     nicht. Eine derartige differenzierte Belehrung des Antragstellers über die in seinem Fall in Betracht kommende Anhörung des zuständigen Personalrats in
+
+                                           - 10 -
+
+
+     Gestalt der gewählten Soldatenvertreter ist - dies räumt auch der BMVg sinngemäß ein - damals nicht erfolgt.
+
+
+25   Damit ist die angefochtene Verfügung der SDL am 8. Dezember 2006 ergangen, ohne dass zuvor eine Anhörung der zuständigen Personalvertretung stattgefunden hat und deren Ergebnis in die Ermessensentscheidung der SDL einbezogen worden ist. Da die Anhörung des zuständigen Beteiligungsorgans - wie
+     sich aus § 1 Abs. 1 SBG ergibt - dazu dient, nach den Bestimmungen des
+     Gesetzes zu einer wirkungsvollen Dienstgestaltung und zu einer fürsorglichen
+     Berücksichtigung der Belange des einzelnen Soldaten beizutragen sowie dadurch zugleich auch die Informations- und Entscheidungsbasis der personalbearbeitenden Stelle zu verbreitern (vgl. dazu u.a. Beschluss vom 20. Juni 2005
+     - BVerwG 1 WB 60.04 - Buchholz 252 § 20 SBG Nr. 1), und weil § 23 Abs. 2
+     Satz 2 SBG zwingend die Einbeziehung des Ergebnisses der Anhörung des
+     Beteiligungsorgans in die zu treffende Personalentscheidung anordnet, ist die
+     angefochtene Versetzungsverfügung der SDL rechtswidrig.
+
+
+26   Der Umstand, dass der Vorsitzende des gemeinsamen örtlichen Personalrates
+     des B… US/CA und der B… US/CA am 15. Dezember 2006 mitgeteilt hat, die
+     Soldatengruppe dieser Personalvertretung habe der vorzeitigen Versetzung des
+     Antragstellers zugestimmt, ändert an diesem Ergebnis nichts. Denn diese Äußerung der zuständigen Personalvertretung ist nicht in die angefochtene Versetzungsverfügung der SDL eingeflossen. Auch im laufenden Beschwerdeverfahren ist bisher eine neue Entscheidung über die Versetzung des Antragstellers unter Berücksichtigung dieser Äußerung der zuständigen Personalvertretung nicht getroffen worden. Vor diesem Hintergrund ist - entgegen der Annahme des BMVg - eine Heilung des Beteiligungsmangels bisher nicht erfolgt.
+
+
+27   Die Kostenentscheidung beruht auf § 20 Abs. 1 Satz 1 i.V.m. § 21 Abs. 2 Satz 1
+     WBO.
+
+
+
+
+     Golze                               Dr. Frentz                  Dr. Deiseroth
