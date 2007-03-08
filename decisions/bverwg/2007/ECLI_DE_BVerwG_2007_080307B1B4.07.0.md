@@ -1,0 +1,105 @@
+---
+ecli: "ECLI:DE:BVerwG:2007:080307B1B4.07.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 B 4.07"
+decided: "2007-03-08"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/080307B1B4.07.0.pdf"
+corpus_doc_id: "BVerwG_2007-03-08_B_1_B_4_07_NA_0.txt"
+cites_law: ["germany/bund/acts/rvg/0030.md", "germany/bund/acts/vwgo/0132.md", "germany/bund/acts/vwgo/0133.md", "germany/bund/acts/vwgo/0154.md"]
+---
+
+# Bundesverwaltungsgericht, 1 B 4.07 vom 2007-03-08
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                         BESCHLUSS
+
+BVerwG 1 B 4.07
+OVG 16 A 4476/05.A
+
+
+
+                     In der Verwaltungsstreitsache
+
+                                          -2-
+
+
+    hat der 1. Senat des Bundesverwaltungsgerichts
+    am 8. März 2007
+    durch die Vizepräsidentin des Bundesverwaltungsgerichts Eckertz-Höfer,
+    den Richter am Bundesverwaltungsgericht Dr. Mallmann und die Richterin
+    am Bundesverwaltungsgericht Beck
+
+
+    beschlossen:
+
+
+              Die Beschwerde der Kläger gegen die Nichtzulassung der
+              Revision in dem Urteil des Oberverwaltungsgerichts für
+              das Land Nordrhein-Westfalen vom 6. Oktober 2006 wird
+              verworfen.
+
+              Die Kläger tragen die Kosten des Beschwerdeverfahrens.
+
+
+
+                                      Gründe:
+
+
+1   Die Beschwerde ist unzulässig. Sie legt die geltend gemachte grundsätzliche
+    Bedeutung der Rechtssache nicht in einer den Erfordernissen des § 133 Abs. 3
+    Satz 3 VwGO entsprechenden Weise dar.
+
+
+2   Die Beschwerde macht geltend, der Rechtssache komme „grundsätzliche Bedeutung gemäß § 78 Abs. 3 Nr. 1 AsylVfG zu“. Grundsätzliche Bedeutung habe
+    eine Rechtssache u.a. dann, wenn die in der Revisions-/Berufungsentscheidung
+    „zu erwartende Klärung von Tatsachenfragen“ verallgemeinerungsfähige Auswirkungen entfalte. Es stelle sich die grundsätzliche Rechtsfrage,
+
+
+              „ob in Widerrufsfällen in Bezug auf den Irak die drei Tatbestandsmerkmale des grundlegenden Charakters, der
+              Wiederherstellung des Schutzes und der Stabilität und
+              Dauerhaftigkeit der Veränderung nach Art. 1 C Nr. 5 I.
+              (gemeint: Satz 1) GFK erfüllt sein müssen, bevor ein Widerruf rechtmäßig ergehen kann“.
+
+3   Die Beschwerde ist bereits im rechtlichen Ansatz verfehlt, da § 78 Abs. 3 Nr. 1
+    AsylVfG, der - anders als § 132 Abs. 2 Nr. 1 VwGO - im Falle verallgemeinerungsfähiger Auswirkungen auch die Klärung von Tatsachenfragen einschließt,
+    allein die Zulassung der Berufung und nicht diejenige der Revision regelt. Auch
+
+                                          -3-
+
+
+    wenn man annähme, dass die Beschwerde die Zulassung der Revision gemäß
+    § 132 Abs. 2 Nr. 1 VwGO erstrebt, kann ihr dies nicht zum Erfolg verhelfen. Die
+    Zulassung der Revision wegen grundsätzlicher Bedeutung der Rechtssache
+    setzt nach dieser Vorschrift voraus, dass eine klärungsfähige und klärungsbedürftige Rechtsfrage aufgeworfen wird. Eine solche lässt sich der Beschwerde
+    nicht entnehmen. Die aufgeworfene Frage betrifft in erster Linie die tatsächliche
+    Situation im Irak. Die Beschwerde greift in der Art einer Berufungsbegründung
+    die tatsächliche und rechtliche Würdigung des Berufungsgerichts an. Damit
+    kann sie die Zulassung der Revision wegen grundsätzlicher Bedeutung der
+    Rechtssache nicht erreichen. Entsprechendes gilt für die von der Beschwerde
+    aufgeworfene „grundsätzliche Rechts- und Tatsachenfrage, ob die Wiederherstellung des Schutzes des Staates und der Stabilität und Dauerhaftigkeit der
+    Veränderung tatsächlich vorliegt“.
+
+
+4   Die Darlegung der Beschwerde, das Berufungsgericht habe § 73 Abs. 1 Satz 1
+    AsylVfG nicht entsprechend der Rechtsprechung des Bundesverwaltungsgerichts ausgelegt, kann schließlich die Zulassung der Revision auch dann nicht
+    rechtfertigen, wenn man sie als Divergenzrüge (§ 132 Abs. 2 Nr. 2 VwGO) versteht. Insoweit und wegen weiterer Einzelheiten dazu, dass die Beschwerde die
+    grundsätzliche Bedeutung der Rechtssache nicht in einer den gesetzlichen Darlegungserfordernissen entsprechenden Weise aufzeigt, wird auf den den Beteiligten bekannten Beschluss des Senats vom 1. März 2007 - BVerwG 1 B
+    200.06 - Bezug genommen.
+
+
+5   Die Kostenentscheidung beruht auf § 154 Abs. 2 VwGO. Gerichtskosten werden gemäß § 83b AsylVfG nicht erhoben. Der Gegenstandswert ergibt sich aus
+    § 30 Satz 1 RVG.
+
+
+
+
+    Eckertz-Höfer                        Dr. Mallmann                           Beck
