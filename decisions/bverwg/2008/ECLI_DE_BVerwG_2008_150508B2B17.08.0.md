@@ -1,0 +1,95 @@
+---
+ecli: "ECLI:DE:BVerwG:2008:150508B2B17.08.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 B 17.08"
+decided: "2008-05-15"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/150508B2B17.08.0.pdf"
+corpus_doc_id: "BVerwG_2008-05-15_B_2_B_17_08_NA_0.txt"
+cites_law: ["germany/bund/acts/vwgo/0132.md"]
+---
+
+# Bundesverwaltungsgericht, 2 B 17.08 vom 2008-05-15
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                            BESCHLUSS
+
+BVerwG 2 B 17.08 (2 C 52.08)
+OVG 1 A 758/07
+
+
+                       In der Verwaltungsstreitsache
+
+
+
+
+hat der 2. Senat des Bundesverwaltungsgerichts
+am 15. Mai 2008
+durch den Vorsitzenden Richter am Bundesverwaltungsgericht Albers,
+den Richter am Bundesverwaltungsgericht Prof. Dr. Kugele und
+die Richterin am Bundesverwaltungsgericht Thomsen
+
+
+beschlossen:
+
+                                         -2-
+
+
+
+
+               Die Entscheidung des Oberverwaltungsgerichts für das
+               Land Nordrhein-Westfalen über die Nichtzulassung der
+               Revision gegen seinen Beschluss vom 28. Dezember
+               2007 wird aufgehoben.
+
+               Die Revision wird zugelassen.
+
+               Die Entscheidung über die Kosten des Beschwerdeverfahrens folgt der Kostenentscheidung in der Hauptsache.
+
+
+
+
+                                     Gründe:
+
+
+1   Die Revision ist nach § 132 Abs. 2 Nr. 1 VwGO zuzulassen. Die angestrebte
+    Entscheidung erscheint geeignet, zur Klärung der Frage beizutragen, ob und
+    gegebenenfalls mit welchen Rechtsfolgen die Anwendung des § 12a der Beihilfeverordnung Nordrhein-Westfalen in der Fassung von Art. II des Gesetzes vom
+    18. Dezember 2002 (GV.NRW S. 660 <666>) seit dem Jahr 2003 zur Unterschreitung der amtsangemessenen Alimentation der Beamten und Richter
+    geführt hat.
+
+
+
+
+                                Rechtsmittelbelehrung
+
+
+    Das Beschwerdeverfahren wird als Revisionsverfahren unter dem Aktenzeichen
+    BVerwG 2 C 52.08 fortgesetzt; der Einlegung einer Revision durch den Beschwerdeführer bedarf es nicht.
+
+    Die Revision ist innerhalb eines Monats nach Zustellung dieses Beschlusses zu
+    begründen. Die Begründung ist bei dem Bundesverwaltungsgericht, Simsonplatz 1, 04107 Leipzig, schriftlich oder in elektronischer Form (Verordnung vom
+    26. November 2004, BGBl I S. 3091) einzureichen.
+
+    Für den Revisionskläger besteht Vertretungszwang; dies gilt auch für die Begründung der Revision. Der Revisionskläger muss sich durch einen Rechtsanwalt oder einen Rechtslehrer an einer deutschen Hochschule im Sinne des
+    Hochschulrahmengesetzes mit Befähigung zum Richteramt als Bevollmächtigten vertreten lassen. Juristische Personen des öffentlichen Rechts und Behörden können sich auch durch Beamte oder Angestellte mit Befähigung zum
+    Richteramt sowie Diplomjuristen im höheren Dienst, Gebietskörperschaften
+
+                                      -3-
+
+
+ferner durch Beamte oder Angestellte mit Befähigung zum Richteramt der zuständigen Aufsichtsbehörde oder des jeweiligen kommunalen Spitzenverbandes
+des Landes, dem sie als Mitglied zugehören, vertreten lassen. In derselben
+Weise muss sich jeder Beteiligte vertreten lassen, soweit er einen Antrag stellt.
+
+
+
+Albers                        Prof. Dr. Kugele                        Thomsen
