@@ -1,0 +1,104 @@
+---
+ecli: "ECLI:DE:BVerwG:2008:021008B2B3.08.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 B 3.08"
+decided: "2008-10-02"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/021008B2B3.08.0.pdf"
+corpus_doc_id: "BVerwG_2008-10-02_B_2_B_3_08_NA_0.txt"
+cites_law: ["germany/bund/acts/gkg_2004/0052.md", "germany/bund/acts/vwgo/0132.md", "germany/bund/acts/vwgo/0154.md"]
+---
+
+# Bundesverwaltungsgericht, 2 B 3.08 vom 2008-10-02
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                            BESCHLUSS
+
+BVerwG 2 B 3.08
+OVG 6 A 3112/06
+
+
+                       In der Verwaltungsstreitsache
+
+
+
+
+hat der 2. Senat des Bundesverwaltungsgerichts
+am 2. Oktober 2008
+durch den Vorsitzenden Richter am Bundesverwaltungsgericht Herbert
+und die Richter am Bundesverwaltungsgericht Groepper und Dr. Burmeister
+
+
+beschlossen:
+
+                                         -2-
+
+
+
+
+              Die Beschwerde des Beklagten gegen die Nichtzulassung
+              der Revision im Beschuss des Oberverwaltungsgerichts
+              für das Land Nordrhein-Westfalen vom 27. September
+              2007 wird zurückgewiesen.
+
+              Der Beklagte trägt die Kosten des Beschwerdeverfahrens.
+
+              Der Wert des Streitgegenstandes wird für das Beschwerdeverfahren auf die Wertstufe bis 300 € festgesetzt.
+
+
+
+                                     Gründe:
+
+
+1   Die auf den Zulassungsgrund der grundsätzlichen Bedeutung (§ 132 Abs. 2
+    Nr. 1 VwGO) gestützte Beschwerde ist unbegründet.
+
+
+2   Vor dem Hintergrund, dass das Berufungsgericht das beklagte Land verpflichtet
+    hat, dem Kläger Beihilfe zu den Aufwendungen für ein ärztlich verschriebenes
+    Medikament zur Behandlung einer erektilen Dystonie zu gewähren, hält das
+    beklagte Land die Frage für klärungsbedürftig, ob zur Ausfüllung des unbestimmten Rechtsbegriffs der „Notwendigkeit“ in den beihilferechtlichen Bestimmungen des Bundes und der Länder die Heilungs- und Behandlungswürdigkeit
+    einzelner Krankheiten auch dann im normativen „Programm“ der Beihilfevorschriften geregelt werden kann, wenn eine ausdrückliche gesetzliche Grundlage
+    dafür nicht vorhanden ist.
+
+
+3   Für die Beantwortung dieser Frage bedarf es keines Revisionsverfahrens; sie
+    lässt sich auf der Grundlage der Entscheidung des Senats vom 17. Juni 2004
+    (BVerwG 2 C 50.02 - BVerwGE 121, 103) ohne weiteres verneinen. Wie der
+    Senat in dieser Entscheidung ausgeführt hat, sind bei der näheren Ausgestaltung der Fürsorge im Falle von Krankheit oder Pflegebedürftigkeit des Beamten
+    und seiner Angehörigen aufgrund des Gesetzesvorbehaltes zumindest die tragenden Strukturprinzipien gesetzlich zu regeln. Der Gesetzgeber selbst hat in
+    der Bandbreite seiner verfassungsrechtlichen Möglichkeiten (vgl. BVerfGE 58,
+    68 <77 f.>; 79, 223 <235>; 83, 89 <98>; 106, 225 <232>) das Leistungssystem
+    zu bestimmen, das dem Beamten und seiner Familie Schutz im Falle von
+
+                                          -3-
+
+
+    Krankheit und Pflegebedürftigkeit bietet, sowie festzulegen, welche „Risiken“
+    erfasst werden, für welche Personen Leistungen beansprucht werden können,
+    nach welchen Grundsätzen Leistungen erbracht und bemessen oder ausgeschlossen werden und welche zweckidentischen Leistungen und Berechtigungen Vorrang haben.
+
+4   Wie der Beklagte bereits mit seiner Frage zutreffend erkennt, enthält die hier
+    maßgebliche Vorschrift des § 88 LBG NRW keinerlei Festlegung, „nach welchen Grundsätzen Leistungen erbracht und bemessen oder ausgeschlossen
+    werden“. Soweit das Gesetz überhaupt zu Leistungsausschlüssen unabhängig
+    von der Notwendigkeit und Angemessenheit der Kosten ermächtigt, betrifft dies
+    nur die Bereiche der zahnärztlichen Leistungen, der Beschäftigung von Pflegekräften und Hauspflegekräften, der Hilfsmittel, der Aufenthalte in Sanatorien
+    und Heimen, der Heilkuren, der Behandlungen außerhalb des Wohnortes des
+    Beihilfeberechtigten sowie der Todesfälle.
+
+
+5   Die Nebenentscheidungen beruhen auf § 154 Abs. 2 VwGO und auf § 47
+    Abs. 3, § 52 Abs. 3 GKG.
+
+
+
+
+    Herbert                         Groepper                         Dr. Burmeister
