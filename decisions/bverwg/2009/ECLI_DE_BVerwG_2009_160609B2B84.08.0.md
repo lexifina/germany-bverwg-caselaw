@@ -1,0 +1,149 @@
+---
+ecli: "ECLI:DE:BVerwG:2009:160609B2B84.08.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 B 84.08"
+decided: "2009-06-16"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/160609B2B84.08.0.pdf"
+corpus_doc_id: "BVerwG_2009-06-16_B_2_B_84_08_NA_0.txt"
+cites_law: ["germany/bund/acts/bbesg/0001.md", "germany/bund/acts/bbesg/0012.md", "germany/bund/acts/bbesg/0049.md", "germany/bund/acts/bgb/0819.md", "germany/bund/acts/gkg_2004/0052.md", "germany/bund/acts/grundgesetz/artikel/033.md", "germany/bund/acts/vwgo/0132.md", "germany/bund/acts/vwgo/0154.md"]
+---
+
+# Bundesverwaltungsgericht, 2 B 84.08 vom 2009-06-16
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                            BESCHLUSS
+
+BVerwG 2 B 84.08
+OVG 1 L 159/07
+
+
+
+                       In der Verwaltungsstreitsache
+
+
+
+
+hat der 2. Senat des Bundesverwaltungsgerichts
+am 16. Juni 2009
+durch den Vorsitzenden Richter am Bundesverwaltungsgericht Herbert,
+den Richter am Bundesverwaltungsgericht Prof. Dr. Kugele und
+die Richterin am Bundesverwaltungsgericht Thomsen
+
+
+beschlossen:
+
+                                           -2-
+
+
+
+                 Die Beschwerde des Klägers gegen die Nichtzulassung
+                 der Revision in dem Beschluss des Oberverwaltungsgerichts des Landes Sachsen-Anhalt vom 29. September
+                 2008 wird zurückgewiesen.
+
+                 Der Kläger trägt die Kosten des Beschwerdeverfahrens.
+
+                 Der Wert des Streitgegenstandes wird auf 5 433,95 €
+                 festgesetzt.
+
+
+
+                                       Gründe:
+
+
+1   Die Beschwerde ist unbegründet.
+
+
+2   Der Kläger ist Gerichtsvollzieher. Bei der Festsetzung seiner Bürokostenentschädigung für das 4. Quartal des Jahres 2002 ermittelte der Beklagte einen
+    Gesamtbetrag von ca. 25 316 € und forderte 5 433,95 € zurück. Dieser Betrag
+    ergibt sich aus der Differenz der Bürokostenentschädigung und den vom Kläger
+    einbehaltenen Gebührenanteilen. Der Kläger wehrt sich gegen die Rückforderung. Das Berufungsgericht hat seine Klage in vollem Umfang abgewiesen.
+
+
+3   Mit ihrer Grundsatzrüge gemäß § 132 Abs. 2 Nr. 1 VwGO wirft die Beschwerde
+    mehrere vermeintlich rechtsgrundsätzlich klärungsbedürftige Fragen auf, die
+    jedoch nicht zur Zulassung der Revision führen können. Sämtliche Fragen sind
+    in der Rechtsprechung des Senats bereits geklärt oder lassen sich ohne Durchführung eines Revisionsverfahrens beantworten.
+
+4   Die Frage,
+
+                 ob „§ 12 BBesG und insbesondere § 12 Abs. 1 BBesG
+                 und das dort geregelte Schlechterstellungsverbot auf den
+                 Fall der Ablieferung zuvor von einem Gerichtsvollzieher
+                 vorläufig einbehaltener Gebührenanteile auf Grundlage
+                 des § 49 Abs. 3 BBesG in Verbindung mit der jeweils geltenden Gerichtsvollzieherentschädigungsverordnung Anwendung“ finden und „mithin das Schlechterstellungsverbot des § 12 Abs. 1 BBesG der Rückforderung vorläufig
+                 einbehaltender Gebührenanteile entgegen“ steht,
+
+                                             -3-
+
+
+    ist bereits durch das Senatsurteil vom 19. August 2004 - BVerwG 2 C 41.03 -
+    (NVwZ-RR 2005, 214 ff.) entschieden.
+
+
+5   Aus dieser Entscheidung ergibt sich, dass § 49 Abs. 3 Satz 1 BBesG neben der
+    Ermächtigung des Verordnungsgebers zum Erlass einer Abgeltungsregelung
+    zugleich die Verpflichtung des Dienstherrn zum regelmäßigen Ersatz der Kosten enthält, die dem Gerichtsvollzieher entstehen, weil er ein Büro unterhalten
+    muss. Damit hat der Senat einerseits den Zusammenhang zwischen den Bürokosten und der Alimentation des Gerichtsvollziehers hergestellt und andererseits Alimentation und Bürokostenentschädigung voneinander abgegrenzt. Der
+    Zusammenhang besteht darin, dass der Gerichtsvollzieher die Kosten für den
+    Unterhalt des Gerichtsvollzieherbüros aus seiner Alimentation bestreiten müsste, würde er keinen Ersatzanspruch haben. Dazu wäre er wegen seines Anspruchs auf amtsangemessene Alimentation (Art. 33 Abs. 5 GG) jedoch nicht
+    verpflichtet. Der in dieser Senatsentscheidung verdeutlichte Unterschied des
+    Ersatzanspruchs zur Alimentation besteht darin, dass der Ersatzanspruch eine
+    Entschädigung des Gerichtsvollziehers auf der Grundlage einer typisierenden
+    und pauschalierenden Kostenermittlung, jedoch keine Besoldung darstellt. Daraus folgt zwingend, dass die Bürokostenentschädigung weder zu den Dienstbezügen nach § 1 Abs. 2 BBesG noch zu den sonstigen Bezügen nach § 1
+    Abs. 3 BBesG gehört. Diese rechtliche Bestimmung der Bürokostenentschädigung hat der Senat in der zitierten Entscheidung mit folgender Formulierung
+    zusätzlich bekräftigt (vgl. juris Rn. 12):
+
+               „Auch die Stellung der Vorschrift im systematischen Kontext spricht für die Annahme, dass § 49 Abs. 3 Satz 1
+               BBesG nicht zur Regelung einer Vergütung, sondern einer
+               Kostenabgeltung ermächtigt.“
+
+6   Wegen dieser unmissverständlichen und ohne Weiteres nachvollziehbaren
+    rechtlichen Bewertung bedarf es keiner weiteren Klärung der von der Beschwerde aufgeworfenen Rechtsfrage in einem Revisionsverfahren. Denn da
+    die Bürokostenentschädigung nicht zu den Bezügen gehört, liegt auf der Hand,
+    dass § 12 BBesG auf die Rückforderung von Bürokostenentschädigung nicht
+    anwendbar ist.
+
+                                          -4-
+
+
+
+7   Die zweite Frage,
+
+               ob „die dem § 12 Abs. 1 BBesG korrespondierenden
+               landesgesetzlichen Regelungen des Beamtenrechts, hier
+               § 87 Abs. 1 BG LSA, und die hierdurch normierten
+               Schlechterstellungsverbote auf den Fall der Ablieferung zuvor von einem Gerichtsvollzieher vorläufig einbehaltener
+               Gebührenanteile auf Grundlage des § 49 Abs. 3 BBesG in
+               Verbindung mit der jeweiligen geltenden Gerichtsvollzieherentschädigungsverordnung Anwendung“ findet,
+
+    bedarf aus denselben Gründen, mit denen die Rechtsgrundsätzlichkeit der ersten von der Beschwerde aufgeworfenen Frage verneint wurde, einer Klärung in
+    einem Revisionsverfahren.
+
+
+8   Die dritte Frage,
+
+               „ob der Gerichtsvollzieher, von dem Rückforderungsbeträge verlangt werden, im Sinne von § 12 Abs. 2 Satz 2
+               BBesG in Verbindung mit § 819 Abs. 1 BGB bösgläubig
+               ist“,
+
+    würde sich nach dem oben Gesagten in einem Revisionsverfahren nicht stellen,
+    sodass sie die Zulassung wegen grundsätzlicher Bedeutung der Rechtssache
+    schon aus diesem Grund nicht rechtfertigt.
+
+
+9   Die Kostenentscheidung beruht auf § 154 Abs. 2 VwGO. Die Festsetzung des
+    Streitwerts ergibt sich aus § 47 Abs. 1 i.V.m. § 52 Abs. 3 GKG.
+
+
+
+
+    Herbert                        Prof. Dr. Kugele                     Thomsen
