@@ -1,0 +1,292 @@
+---
+ecli: "ECLI:DE:BVerwG:2010:250610B9B99.09.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "9"
+aktenzeichen: "9 B 99.09"
+decided: "2010-06-25"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/250610B9B99.09.0.pdf"
+corpus_doc_id: "BVerwG_2010-06-25_B_9_B_99_09_NA_0.txt"
+cites_law: ["germany/bund/acts/bnatschg_2009/0042.md", "germany/bund/acts/gkg_2004/0003.md", "germany/bund/acts/gkg_2004/0047.md", "germany/bund/acts/grundgesetz/artikel/002.md", "germany/bund/acts/grundgesetz/artikel/020.md", "germany/bund/acts/grundgesetz/artikel/103.md", "germany/bund/acts/vwgo/0003.md", "germany/bund/acts/vwgo/0086.md", "germany/bund/acts/vwgo/0105.md", "germany/bund/acts/vwgo/0108.md", "germany/bund/acts/vwgo/0112.md", "germany/bund/acts/vwgo/0132.md", "germany/bund/acts/vwgo/0133.md", "germany/bund/acts/vwgo/0138.md", "germany/bund/acts/vwgo/0154.md"]
+---
+
+# Bundesverwaltungsgericht, 9 B 99.09 vom 2010-06-25
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                       BESCHLUSS
+
+BVerwG 9 B 99.09
+OVG 5 B 322/06
+
+
+
+                   In der Verwaltungsstreitsache
+
+                                          -2-
+
+
+
+    hat der 9. Senat des Bundesverwaltungsgerichts
+    am 25. Juni 2010
+    durch den Vorsitzenden Richter am Bundesverwaltungsgericht Dr. Storost und
+    die Richter am Bundesverwaltungsgericht Dr. Nolte und Prof. Dr. Korbmacher
+
+
+    beschlossen:
+
+
+              Die Beschwerde des Beklagten gegen die Nichtzulassung
+              der Revision in dem Urteil des Sächsischen Oberverwaltungsgerichts vom 17. Juni 2009 wird zurückgewiesen.
+
+              Der Beklagte trägt die Kosten des Beschwerdeverfahrens.
+
+              Der Wert des Streitgegenstandes wird für das Beschwerdeverfahren auf 10 243,05 € festgesetzt.
+
+
+
+                                        Gründe:
+
+
+1   Es kann dahinstehen, ob der angefochtene Bescheid über die Erhebung eines
+    Anschlussbeitrags vom 23. Juli 2002 durch den auf die Abwasserabgabensatzung vom 24. November 2009 gestützten Bescheid vom 18. Dezember 2009
+    ersetzt und damit konkludent aufgehoben worden ist. Ebenso kann dahinstehen, ob im Fall der Erledigung des Bescheids ein Rechtsschutzbedürfnis für die
+    Nichtzulassungsbeschwerde des Beklagten deswegen weiterhin bestehen
+    könnte, weil der Beklagte mit Blick auf die bis auf die Satzungsgrundlage identischen Bescheide ein schutzwürdiges Interesse an der Klärung der im vorliegenden Verfahren aufgeworfenen Streitfragen hat. Denn die Beschwerde kann
+    in der Sache keinen Erfolg haben.
+
+2   1. Verfahrensfehler, die zur Zulassung der Revision nach § 132 Abs. 2 Nr. 3
+    VwGO führen könnten, ergeben sich aus dem Beschwerdevorbringen nicht.
+
+
+3   a) Die Beschwerde meint, das Oberverwaltungsgericht habe seine Amtsermittlungspflicht (§ 86 Abs. 1 VwGO) verletzt, weil es das von dem Beklagten vorgelegte umfangreiche Zahlenmaterial nicht durch einen Sachverständigen habe
+    begutachten lassen, obwohl es in seinem Schreiben vom 24. März 2009 ange-
+
+                                           -3-
+
+
+    kündigt habe, es behalte sich nach Vorlage der vom Beklagten angeforderten
+    Unterlagen die Überprüfung des Rechenwerks durch einen Wirtschaftsprüfer
+    vor. Das Vorbringen lässt jedoch nicht erkennen, dass sich dem Oberverwaltungsgericht eine weitere Sachaufklärung hätte aufdrängen müssen. Das Oberverwaltungsgericht hat weitere Sachverhaltsermittlungen mit der Begründung
+    abgelehnt, dass der Beklagte auch im Berufungsverfahren trotz mehrfacher
+    konkreter Aufforderungen und Nachfragen letztlich keine für eine Kontrolle des
+    höchstzulässigen angemessenen Beitragssatzes belastbaren Zahlen benannt
+    und vorgelegt habe. Der Beklagte habe die angeforderten genauen Angaben
+    der Kosten aller Anlagenteile zum Zeitpunkt 31. Dezember 2001 nicht erbracht
+    und die entsprechenden Belege und Rechnungen aus dem Zeitraum 2001/2002
+    nicht vorgelegt. Die vom Beklagten mit Schriftsatz vom 29. April 2009
+    eingereichten Unterlagen seien zusammenhanglos und stellten keinen Bezug
+    zu den gerichtlichen Fragestellungen her. Rechnungen, aus denen sich die
+    tatsächlich angefallenen und übernommenen Kosten ergeben würden, habe der
+    Beklagte trotz der gerichtlichen Aufforderung nicht vorgelegt. Ohne die angeforderten Unterlagen lasse sich jedoch nicht aufklären, welche Wiederbeschaffungszeitwerte der Berechnung des Betriebskapitals zugrunde zu legen
+    gewesen seien. Die Vertreter des Beklagten hätten auch in der mündlichen
+    Verhandlung vom 17. Juni 2009 wiederholt unterschiedliche Angaben gemacht
+    und die der Globalberechnung zu entnehmenden Zahlen, die der Sphäre des
+    Beklagten entstammten, mehrfach unterschiedlich erklärt. Dies gehe zu Lasten
+    des Beklagten. Dem Amtsermittlungsgrundsatz sei Genüge getan.
+
+
+4   Damit ist das Oberverwaltungsgericht zutreffend davon ausgegangen, dass die
+    dem Gericht obliegende Pflicht, von sich aus den maßgeblichen Sachverhalt zu
+    ermitteln und dafür von Amts wegen die erforderliche Sachverhaltsaufklärung
+    zu betreiben, sich vermindern kann, wenn die Beteiligten ihre Mitwirkungspflichten verletzen. Die gerichtliche Aufklärungspflicht findet dort ihre Grenze, wo das
+    Vorbringen der Beteiligten keinen tatsächlichen Anlass zu weiterer Aufklärung
+    bietet (vgl. dazu im Einzelnen Urteile vom 29. Juni 1999 - BVerwG 9 C 36.98 -
+    BVerwGE 109, 174 <177 f.> und vom 13. April 2005 - BVerwG 10 C 8.04 -
+    Buchholz 401.68 Vergnügungssteuer Nr. 39 S. 51). So lag es hier.
+
+                                          -4-
+
+
+5   Das Oberverwaltungsgericht hat in seiner Aufklärungsverfügung vom Beklagten
+    neben einer Auflistung aller Kostenpositionen ausdrücklich Auskunft darüber
+    gefordert, welche Beträge er für die Ende 2001/Anfang 2002 durchgeführten
+    Arbeiten tatsächlich gezahlt hat, und ihm die Vorlage entsprechender Rechnungen und Belege aufgegeben. Dass der Beklagte dieser Aufforderung nachgekommen wäre, ist nicht erkennbar. Der Hinweis der Beschwerde auf die bereits in einem früheren Verfahrensstadium vorgelegte Ermittlung der „realen,
+    vom Dipl.-Ing. J. T. ermittelten Preise“, die Ausgangspunkt der Kalkulation gewesen seien, ist insoweit unbehelflich.
+
+
+6   Das von Dipl.-Ing. T. im Rahmen der Kostenvergleichsrechnung erstellte Rechenwerk zur Ermittlung der durchschnittlichen Einheitspreise für die Position
+    „Pumpschacht PKS 800/DKS 1000“ stellt, wie die Beschwerde an anderer Stelle
+    erläutert, eine Berechnung eines Durchschnittsbetrags aufgrund von Angeboten
+    von Bietern dar. Damit räumt der Beklagte selbst ein, dass es sich nicht um die
+    vom Gericht verlangten Unterlagen über die tatsächlich angefallenen und
+    übernommenen Kosten handelt. Mithin ist es auch unerheblich, dass das
+    Gericht nicht nachgefragt hat, ob die der Berechnung zugrunde liegenden Unterlagen von Dipl.-Ing. T. vorgelegt werden können. Auf diese Unterlagen kam
+    es dem Gericht nicht an. Sowohl die Zahlen der Kostenvergleichsrechnung als
+    auch diejenigen der Globalberechnung waren dem Gericht bekannt und Gegenstand der zwischen den Parteien ausgetauschten Schriftsätze. Zur Aufklärung der dabei festgestellten und von dem Kläger gerügten Unstimmigkeiten
+    und erheblichen Differenzen und damit zur Überprüfung der der Globalberechnung zugrunde liegenden Kostenkalkulation sollten die angeforderten Angaben
+    über die tatsächlichen Anschaffungskosten der Pumpschächte dienen. Diese
+    Angaben hat der Beklagte nicht beigebracht.
+
+
+7   Die Beschwerde kann dem nicht erfolgreich mit dem Argument entgegentreten,
+    die tatsächlichen Anschaffungskosten der Pumpen könnten aus der Abrechnung der Baulose nicht ohne Weiteres entnommen werden. In diesem Fall wäre
+    es Aufgabe des Gerichts, gegebenenfalls unter Zuhilfenahme Sachverständiger, die von dem Beklagten als zwingend bezeichnete Aufspaltung der Abrechnungen vorzunehmen. Es ist dagegen nicht Sache des zur Mitwirkung auf-
+
+                                          -5-
+
+
+    geforderten Prozessbeteiligten, angeforderte Unterlagen deshalb nicht vorzulegen, weil sie seiner Einschätzung nach für die weitere Sachaufklärung nicht
+    geeignet sind.
+
+
+8   b) Es liegt auch kein Verstoß gegen § 86 Abs. 1 und § 108 Abs. 2 VwGO sowie
+    den Anspruch auf ein faires Verfahren (Art. 2 Abs. 1 GG i.V.m. dem Rechtsstaatsprinzip) darin, dass das Oberverwaltungsgericht ohne vorherigen Hinweis
+    auf die seiner Ansicht nach nicht aussagekräftigen Zahlen des Beklagten die in
+    seinem Schreiben vom 24. März 2009 in Aussicht gestellte Einholung eines
+    Sachverständigengutachtens unterlassen hat. Die vom Gericht in Erwägung
+    gezogene Beauftragung eines Wirtschaftsprüfers zur Prüfung des Rechenwerks
+    setzte die Vorlage der angeforderten Unterlagen durch den Beklagten voraus.
+    Hieran fehlte es, wie sich aus dem in der mündlichen Verhandlung am 17. Juni
+    2009 zu Protokoll genommenen Hinweis des Gerichts zu Beginn der
+    Erörterungen über die Pumpschächte, die Unterlagen seien nicht in der geforderten Weise vorgelegt worden, entnehmen lässt. Es wäre Sache des Beklagten gewesen, diesen ausdrücklichen und durch die Protokollierung besonders
+    hervorgehobenen Hinweis des Gerichts in der anschließenden Erörterung zum
+    Anlass zu nehmen, nachzufragen, welche Ergänzungen und zusätzlichen Informationen das Gericht für erforderlich erachte. Dass dies geschehen sei, behauptet die Beschwerde nicht. Eine Nachfrage ist auch nicht in der Sitzungsniederschrift vermerkt. Unterlässt es ein Prozessbeteiligter aber, auf den gerichtlichen Vorhalt, er sei einer gerichtlichen Auflage nicht ausreichend nachgekommen, nachzufragen, welche weiteren Angaben seitens des Gerichts erwartet werden, so kann er später nicht im Wege der Verfahrensrüge die Verletzung
+    von prozessualen Rechten geltend machen (vgl. Beschluss vom 19. August
+    1997 - BVerwG 7 B 261.97 - Buchholz 310 § 133 <n.F.> VwGO Nr. 26 S. 14 f.).
+
+
+9   c) Als weiteren Verstoß gegen § 86 Abs. 1 und § 108 Abs. 1 VwGO rügt die
+    Beschwerde, das Oberverwaltungsgericht habe sich dem Vortrag des Beklagten über die notwendigen Rechenschritte von einem Angebot bzw. einer Abrechnung eines Bauloses bis hin zu einem kalkulatorischen Ausgangsbetrag für
+    die Globalberechnung verweigert. Auch diese Rüge rechtfertigt die Zulassung
+    der Revision nicht. Die Beschwerde übersieht, dass für das Oberverwaltungs-
+
+                                            -6-
+
+
+     gericht nicht das Zustandekommen der durch Dipl.-Ing. T. ermittelten Einheitspreise für die Kostenvergleichsrechnung entscheidend war, sondern das Gericht „die tatsächlichen Anschaffungspreise“ in Erfahrung bringen wollte. Hierfür
+     waren die von dem Beklagten eingereichten Angebote für verschiedene Baulose, auf die die Beschwerde verweist, nicht geeignet. Die Ausschreibungsunterlagen und der von der Beschwerde zitierte Preisspiegel enthalten die - zum Teil
+     stark divergierenden - Angebote verschiedener Anbieter und den daraus von
+     Dipl.-Ing. T. für die Ermittlung der Einheitspreise errechneten jeweiligen Mittelwert. Welcher Anbieter zu welchen Konditionen dann tatsächlich beauftragt
+     wurde und die Aufträge erbracht hat, ist diesen Unterlagen nicht zu entnehmen.
+     Genau hierauf und nicht auf den Rechenweg, mit dem die Einheitspreise ermittelt wurden, kam es dem Oberverwaltungsgericht aber an.
+
+
+10   d) Auch die Rüge, das Urteil erweise sich als unzulässige Überraschungsentscheidung und verletze deshalb den Gehörsanspruch (Art. 103 Abs. 1 GG,
+     § 108 Abs. 2 VwGO) des Beklagten, vermag der Beschwerde nicht zum Erfolg
+     zu verhelfen. Im Schreiben vom 24. März 2009 wurde der Beklagte aufgefordert, die tatsächlich gezahlten Preise anzugeben sowie entsprechende Belege
+     und Rechnungen vorzulegen. Hieraus ging für einen gewissenhaften und kundigen Verfahrensbeteiligten mit hinreichender Deutlichkeit hervor, dass es dem
+     Gericht gerade auf Angaben über die „wirklichen Baukosten“ ankam. Dies umso
+     mehr, als der Klägervertreter mit seinem dem Hinweisschreiben vorausgegangenen Schriftsatz vom 16. Dezember 2008 die Frage der tatsächlich dem
+     Beklagten in Rechnung gestellten Anschaffungs- und Herstellungskosten der
+     Pumpschächte zur Überprüfung der Plausibilität der Globalberechnung thematisiert und insoweit angeregt hatte, dem Beklagten die Vorlage entsprechender
+     Unterlagen aufzugeben.
+
+
+11   e) Als weiteren Verfahrensmangel rügt die Beschwerde, dass die Vorschriften
+     über das Protokoll (§ 105 VwGO i.V.m. §§ 159 ff. ZPO) verletzt worden seien.
+     Sie sieht einen Verfahrensverstoß darin, dass die Ausführungen zur Sach- und
+     Rechtslage in der mündlichen Verhandlung am 17. Juni 2009 in einer nicht vom
+     Vorsitzenden und der Protokollführerin unterzeichneten Anlage zum unterzeichneten Protokoll enthalten sind. Es kann dahinstehen, ob die fehlende Un-
+
+                                           -7-
+
+
+     terzeichnung der Protokollanlage dazu geführt hat, dass diese nicht Bestandteil
+     des Protokolls geworden ist. Denn selbst wenn die Ansicht der Beschwerde
+     zuträfe, würde dies die Zulassung der Revision nach § 132 Abs. 2 Nr. 3 VwGO
+     nicht rechtfertigen. Aus dem Beschwerdevorbringen ergibt sich nämlich nicht,
+     dass die Entscheidung auf einem etwaigen Mangel der Protokollierung beruhen
+     kann. Den Antrag, das Protokoll um den Satz zu ergänzen, Rechtsanwalt D.
+     habe die Anregung gegeben, Dipl.-Ing. T. als Zeugen bzw. Sachverständigen
+     zur Richtigkeit der vorgelegten Berechnung zu vernehmen, hat das Oberverwaltungsgericht im Übrigen mit Beschluss vom 12. Januar 2010 abgelehnt.
+
+
+12   f) Ohne Erfolg bleibt auch die Rüge, das Oberverwaltungsgericht sei im Termin
+     am 18. März 2009 anders besetzt gewesen als im Termin am 17. Juni 2009,
+     ohne dass das Ergebnis der ersten mündlichen Verhandlung in einer den Anforderungen des § 112 VwGO genügenden Weise mitgeteilt worden sei. Dies
+     stelle einen absoluten Revisionsgrund nach § 138 Nr. 1 und 3 VwGO dar. Der
+     Verzicht der Beteiligten auf den Vortrag des Sachberichts habe nichts daran geändert, dass wegen des an der mündlichen Verhandlung am 18. März 2009
+     nicht beteiligten Vorsitzenden der Sachverhalt hätte vorgetragen werden müssen.
+
+
+13   Die Beschwerde übersieht zum einen, dass ein Verstoß gegen die sich aus
+     § 112 VwGO ergebende Pflicht, nach einem Richterwechsel den zur Entscheidung berufenen Richter über den Sach- und Streitstand umfassend zu informieren, keinen absoluten Verfahrensfehler darstellt, zum anderen, dass die Unterrichtung über den vollständigen Sach- und Streitstoff einschließlich der Ergebnisse vorangegangener Verhandlungstermine nicht nur im Rahmen des Sachberichts in der mündlichen Verhandlung, sondern auch auf anderem Wege erfolgen kann (Beschluss vom 12. Juli 1985 - BVerwG 9 CB 104.84 - NJW 1986,
+     3154 <3155 f.>, insoweit in Buchholz 310 § 133 VwGO Nr. 56 nicht vollständig
+     abgedruckt). Insbesondere während der Beratung können die mitwirkenden
+     Richter über alle entscheidungserheblichen Umstände informiert werden. Dass
+     dies geschieht, ist regelmäßig anzunehmen. In gleicher Weise, wie grundsätzlich davon auszugehen ist, dass ein Gericht das Vorbringen der Beteiligten zur
+     Kenntnis nimmt, spricht aufgrund der Bindung des Richters an Gesetz und
+
+                                           -8-
+
+
+     Recht eine Vermutung dafür, dass ähnlich wie im Falle der Entscheidung ohne
+     mündliche Verhandlung allen Richtern im Rahmen der Beratung eine vollständige Unterrichtung über den Sach- und Streitstoff zuteil wird (Beschluss vom
+     12. Juli 1985 a.a.O.).
+
+
+14   Besondere, sich aus der angefochtenen Entscheidung selbst ergebende Umstände, aus denen geschlossen werden könnte, dass dies im vorliegenden Falle
+     nicht geschehen sei, lassen sich der Beschwerde nicht entnehmen. Zwar rügt
+     die Beschwerde, der Vorsitzende hätte bei „einer der Verfahrensordnung
+     entsprechenden Unterrichtung seiner Person über die in der mündlichen Verhandlung vom 18.03.2009 erörterten Rechtsfragen und der Tatsachenfeststellungen und Beweisergebnisse“ die weitere Verhandlung anders geleitet und
+     andere Verfügungen zur Beweiserhebung getroffen. Sie zeigt aber nicht konkret
+     auf, aus welchen Umständen sie diese Schlussfolgerungen zieht. Hierfür spricht
+     auch nichts. Der Vorsitzende des Berufungsgerichts war, wie sich aus seiner
+     Mitwirkung an dem Beschluss über die Zulassung der Berufung zeigt, mit dem
+     Verfahren von Anfang an befasst und offenbar nur wegen einer kurzfristigen
+     Erkrankung gehindert, an der Verhandlung am 18. März 2009 teilzunehmen. Es
+     entspricht üblichem Ablauf, dass ihm im Rahmen der Senatsberatungen vor
+     dem erneuten Verhandlungstermin der Sach- und Streitstoff umfassend zur
+     Kenntnis gebracht worden ist.
+
+15   2. Die von der Beschwerde geltend gemachte grundsätzliche Bedeutung (§ 132
+     Abs. 2 Nr. 1 VwGO) kommt der Rechtssache nicht zu.
+
+16   a) Soweit die Beschwerde es für grundsätzlich klärungsbedürftig hält, ob § 52
+     des Sächsischen Gesetzes über kommunale Zusammenarbeit - SächsKomZG -
+     in der Interpretation, die er durch das Oberverwaltungsgericht gefunden hat,
+     gegen Art. 28 Abs. 1 Satz 2 und Art. 20 Abs. 2 GG verstößt, fehlt es an der
+     Entscheidungserheblichkeit der aufgeworfenen Frage. Die Beschwerde meint,
+     die Frage sei entscheidungserheblich, weil bei Bejahung der Verfassungswidrigkeit der Regelung des § 52 SächsKomZG die Klage auch aus diesem Grund
+     hätte Erfolg haben müssen. Damit übersieht sie, dass es für die Entscheidungserheblichkeit nicht darauf ankommt, ob der Klage auch noch aus einem
+     anderen als dem im Urteil genannten Grund hätte stattgegeben werden können,
+
+                                            -9-
+
+
+     sondern ausschließlich darauf, ob die das Urteil tragende Begründung des
+     Oberverwaltungsgerichts grundsätzlichen Klärungsbedarf aufwirft. Aus dem
+     gleichen Grund vermögen - abgesehen von allem Übrigen - auch die weiteren
+     von der Beschwerde aufgeworfenen Fragen zur Vereinbarkeit von § 52
+     SächsKomZG mit den Vorschriften des Verwaltungsverfahrensgesetzes des
+     Bundes die Zulassung der Revision wegen grundsätzlicher Bedeutung nicht zu
+     rechtfertigen.
+
+
+17   b) Die weitere von der Beschwerde als grundsätzlich aufgeworfene Frage, ob
+     ein Gericht bei der Überprüfung einer Globalberechnung jede einzelne Zahl
+     einer ursprünglichen Prognose nach Abschluss der Bauphase darauf überprüfen darf, ob sie sich bewahrheitet hat, rechtfertigt die Zulassung der Revision
+     ebenfalls nicht. Auch sie ist nicht entscheidungserheblich. Das Oberverwaltungsgericht hat der Klage nicht deswegen stattgegeben, weil sich die Prognose nicht in jedem einzelnen Punkt als zutreffend erwiesen hat. Dies entsprach
+     nicht dem Prüfungsansatz des Gerichts. Dieses ist vielmehr der Argumentation
+     des Klägers gefolgt, der darauf hingewiesen hat, dass der von Dipl.-Ing. T. im
+     Auftrag des Beklagten ermittelte Einheitspreis für den Pumpschacht
+     PKS 800/DKS 1000 von 7 500 DM sich ganz erheblich von dem nach den letzten Angaben des Beklagten in der Globalberechnung angesetzten Bruttopreis
+     von 12 500 DM (7 526,22 €) unterscheide und zudem tatsächlich in die Globalberechnung ein noch höherer Wiederbeschaffungswert von 8 700 € eingestellt
+     worden sei. In der Sache hat das Oberverwaltungsgericht aufgrund dieser von
+     dem Beklagten nicht mit Verfahrensrügen angegriffenen tatsächlichen Feststellungen, wonach erhebliche Unterschiede bei den Anschaffungspreisen zwischen der Kostenvergleichsberechnung und der Globalberechnung bestehen,
+     die Plausibilität der Globalberechnung als erschüttert angesehen und weitere
+     Aufklärung für erforderlich erachtet. Zu einer Prüfung, ob die Gemeinde bei ihrer Prognose der künftigen Wiederbeschaffungszeitwerte von einem zutreffenden Sachverhalt und einer geeigneten Berechnungsmethode ausgegangen ist
+     und das gefundene Ergebnis einleuchtend begründet hat, war das Gericht auch
+     bei einer wegen des prognostischen Charakters der Globalberechnung nur eingeschränkten Prüfungsbefugnis berechtigt und verpflichtet (vgl. zur Überprüfung von Prognosen Urteile vom 27. Oktober 1998 - BVerwG 11 A 1.97 -
+
+                                         - 10 -
+
+
+     BVerwGE 107, 313 <326> und vom 9. Juli 2008 - BVerwG 9 A 14.07 - Buchholz
+     406.400 § 42 BNatSchG 2002 Nr. 6 Rn. 156, insoweit in BVerwGE 131, 274
+     nicht abgedruckt).
+
+
+18   3. Die Kostenentscheidung folgt aus § 154 Abs. 2 VwGO; die Streitwertfestsetzung beruht auf § 52 Abs. 3, § 47 Abs. 1 und 3 GKG.
+
+
+
+
+     Dr. Storost                     Dr. Nolte                Prof. Dr. Korbmacher
