@@ -1,0 +1,154 @@
+---
+ecli: "ECLI:DE:BVerwG:2010:280710B9B23.10.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "9"
+aktenzeichen: "9 B 23.10"
+decided: "2010-07-28"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/280710B9B23.10.0.pdf"
+corpus_doc_id: "BVerwG_2010-07-28_B_9_B_23_10_NA_0.txt"
+cites_law: ["germany/bund/acts/gkg_2004/0003.md", "germany/bund/acts/gkg_2004/0047.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/stag/0008.md", "germany/bund/acts/vwgo/0113.md", "germany/bund/acts/vwgo/0132.md", "germany/bund/acts/vwgo/0133.md", "germany/bund/acts/vwgo/0137.md", "germany/bund/acts/vwgo/0154.md"]
+---
+
+# Bundesverwaltungsgericht, 9 B 23.10 vom 2010-07-28
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                       BESCHLUSS
+
+BVerwG 9 B 23.10
+OVG 14 A 3063/07
+
+
+
+                   In der Verwaltungsstreitsache
+
+                                          -2-
+
+
+    hat der 9. Senat des Bundesverwaltungsgerichts
+    am 28. Juli 2010
+    durch den Vorsitzenden Richter am Bundesverwaltungsgericht Dr. Storost,
+    die Richterin am Bundesverwaltungsgericht Buchberger und
+    den Richter am Bundesverwaltungsgericht Dr. Christ
+
+
+    beschlossen:
+
+
+              Die Beschwerde der Klägerin gegen die Nichtzulassung
+              der Revision im Urteil des Oberverwaltungsgerichts für
+              das Land Nordrhein-Westfalen vom 3. Dezember 2009
+              wird zurückgewiesen.
+
+              Die Klägerin trägt die Kosten des Beschwerdeverfahrens.
+
+              Der Wert des Streitgegenstands wird für das Beschwerdeverfahren auf 77 307 € festgesetzt.
+
+
+
+                                     Gründe:
+
+
+1   Die auf die Revisionszulassungsgründe der grundsätzlichen Bedeutung und der
+    Divergenz gestützte Beschwerde hat keinen Erfolg.
+
+2   1. Den Zulassungsgrund der grundsätzlichen Bedeutung (§ 132 Abs. 2 Nr. 1
+    VwGO) hat die Beschwerde nicht in der erforderlichen Weise dargelegt (§ 133
+    Abs. 3 Satz 3 VwGO). Grundsätzliche Bedeutung hat eine Rechtssache dann,
+    wenn für die Entscheidung des vorinstanzlichen Gerichts eine konkrete fallübergreifende Rechtsfrage des revisiblen Rechts (§ 137 Abs. 1 VwGO) von
+    Bedeutung war, deren noch ausstehende höchstrichterliche Klärung im Revisionsverfahren zu erwarten ist und zur Erhaltung der Einheitlichkeit der Rechtsprechung oder zu einer bedeutsamen Weiterentwicklung des Rechts geboten
+    erscheint (stRspr; vgl. Beschlüsse vom 2. Oktober 1961 - BVerwG 8 B 78.61 -
+    BVerwGE 13, 90 <91 f.> und vom 23. April 1996 - BVerwG 11 B 96.95 - Buchholz 310 § 132 Abs. 2 Ziff. 1 VwGO Nr. 10 S. 15). Daran fehlt es, wenn sich die
+    Rechtsfrage in einem Revisionsverfahren nicht stellen würde und deshalb darüber auch nicht entschieden werden könnte. So liegen die Dinge hier.
+
+                                            -3-
+
+
+3   Die Beschwerde hält für grundsätzlich klärungsbedürftig,
+
+                „ob Verwaltungsgerichte entgegen § 113 Abs. 1 Satz 1
+                VwGO berechtigt sind, die Fortgeltung von Verwaltungsakten, deren Rechtswidrigkeit festgestellt ist, anzuordnen“.
+
+4   Nachdem das Oberverwaltungsgericht festgestellt habe, dass die Erhebung der
+    Vergnügungssteuer auf Erlöse aus Geldspielgeräten mit Gewinnmöglichkeit in
+    pauschaler Form je Gerät und Monat gegen das verfassungsrechtliche Gebot
+    der Gleichbehandlung verstoße, sei der streitgegenständliche Verwaltungsakt
+    rechtswidrig und die Klägerin in ihren Rechten verletzt. Die gesetzliche Folge
+    dieser Feststellung gemäß § 113 Abs. 1 Satz 1 VwGO sei, dass das Gericht
+    den Verwaltungsakt aufhebe. Diesen Schritt habe das Gericht jedoch nicht vollzogen, sondern die Fortgeltung des streitgegenständlichen Verwaltungsaktes
+    festgestellt.
+
+
+5   Die aufgeworfene Frage würde sich in einem Revisionsverfahren nicht stellen.
+    Das Oberverwaltungsgericht hat nämlich nicht die Rechtswidrigkeit der angefochtenen Vergnügungssteuerbescheide festgestellt und ist deshalb auch nicht
+    entgegen § 113 Abs. 1 Satz 1 VwGO von der Weitergeltung eines rechtswidrigen Verwaltungsaktes ausgegangen. Vielmehr hat es die Heranziehung zur
+    Vergnügungssteuer für rechtmäßig gehalten. Das Vergnügungssteuergesetz
+    Nordrhein-Westfalen sei im Hinblick auf die im Beschluss des Bundesverfassungsgerichts vom 4. Februar 2009 - 1 BvL 8/05 - enthaltene Erklärung der vorläufigen weiteren Anwendbarkeit des im Hamburgischen Spielgerätesteuergesetz normierten, mit Art. 3 Abs. 1 GG unvereinbaren Stückzahlmaßstabs bis zu
+    seinem Außerkrafttreten mit Ablauf des Jahres 2002 anwendbar und demzufolge auch die darauf beruhende Vergnügungssteuersatzung.
+
+
+6   Ist demnach das Oberverwaltungsgericht nach seiner Rechtsauffassung von
+    rechtmäßigen Bescheiden ausgegangen, war es gehindert, die angegriffenen
+    Verwaltungsakte aufzuheben.
+
+
+7   2. Auch die Voraussetzungen einer Zulassung der Revision wegen entscheidungserheblicher Abweichung von einer Entscheidung des Bundesverwal-
+
+                                           -4-
+
+
+    tungsgerichts (§ 132 Abs. 2 Nr. 2 VwGO) sind nicht erfüllt. Eine Abweichung im
+    Sinne dieser Vorschrift liegt nur dann vor, wenn sich das Oberverwaltungsgericht in Anwendung derselben Rechtsvorschrift mit einem seine Entscheidung
+    tragenden abstrakten Rechtssatz zu einem in einer Entscheidung des Bundesverwaltungsgerichts aufgestellten ebensolchen Rechtssatz in Widerspruch gesetzt hat; die Beschwerdebegründung muss darlegen, dass und inwiefern dies
+    der Fall ist (§ 133 Abs. 3 Satz 3 VwGO, stRspr; vgl. z.B. Beschlüsse vom
+    21. Juli 1988 - BVerwG 1 B 44.88 - Buchholz 130 § 8 RuStAG Nr. 32 und vom
+    12. Dezember 1991 - BVerwG 5 B 68.91 - Buchholz 310 § 132 VwGO Nr. 302).
+    Daran fehlt es hier.
+
+
+8   Die Beschwerde rügt, die angefochtene Entscheidung des Oberverwaltungsgerichts weiche von den Urteilen des Bundesverwaltungsgerichts vom 13. April
+    2005 - BVerwG 10 C 5.04 - (BVerwGE 123, 218 ff. = Buchholz 401.68 Vergnügungssteuer Nr. 38) sowie BVerwG 10 C 8.04 (Buchholz 401.68 Vergnügungssteuer Nr. 39) und vom 14. Dezember 2005 - BVerwG 10 CN 1.05 - (Buchholz
+    401.68 Vergnügungssteuer Nr. 40) ab. Das Oberverwaltungsgericht habe in
+    seiner Entscheidung trotz Feststellung der Rechtswidrigkeit der pauschalen
+    Erhebung der Vergnügungssteuer auf Erlöse aus Geldspielgeräten mit Gewinnmöglichkeit die Fortgeltung der entsprechenden satzungsrechtlichen Vorschriften gebilligt bis zum späteren tatsächlich erfolgten Inkrafttreten einer Neuregelung. Das Oberverwaltungsgericht habe damit dem Satzungsgeber und der
+    die Satzung anwendenden Behörde eine Übergangsfrist eingeräumt, während
+    derer die unwirksamen Normen weiterhin anzuwenden seien. Demgegenüber
+    habe das Bundesverwaltungsgericht in den genannten Entscheidungen in unmittelbarer Anwendung von § 113 Abs. 1 Satz 1 VwGO die entsprechenden
+    Verwaltungsakte wegen Unwirksamkeit der zugrunde liegenden satzungsrechtlichen Vorschriften aufgehoben und dem Satzungsgeber bzw. der Behörde keine wie auch immer zu definierende Frist eingeräumt, die unwirksamen satzungsrechtlichen Vorschriften weiter anzuwenden.
+
+
+9   Es mag dahin stehen, ob damit ein divergierender Rechtssatz benannt ist. Jedenfalls liegt keine Divergenz vor. Der Entscheidung vom 13. April 2005
+    - BVerwG 10 C 8.04 - lässt sich kein Rechtssatz zu § 113 Abs. 1 VwGO ent-
+
+                                           -5-
+
+
+     nehmen, von dem das Urteil des Oberverwaltungsgerichts abweichen könnte.
+     In der Entscheidung bleibt die Verfassungsmäßigkeit der inzident zu prüfenden
+     Satzung wegen fehlender Tatsachengrundlagen offen, so dass auch über die
+     Rechtmäßigkeit des angegriffenen Bescheides nicht abschließend entschieden
+     wurde. In den Entscheidungen vom 13. April 2005 - BVerwG 10 C 5.04 -
+     (a.a.O.) und vom 14. Dezember 2005 (a.a.O.) hat das Bundesverwaltungsgericht es nicht für gerechtfertigt angesehen, den Gemeinden ab dem Jahr 1997
+     eine ein- oder zweijährige Übergangsfrist zuzubilligen, innerhalb derer sie über
+     die Rechtmäßigkeit des Stückzahlmaßstabs im Anwendungsbereich ihrer Satzung zu befinden haben. Die angegriffene Entscheidung lässt keine hiervon
+     abweichende Rechtsauffassung erkennen. Das Oberverwaltungsgericht hat
+     vorliegend dem Landesgesetzgeber oder dem Satzungsgeber keine Übergangsfrist zur Klärung der Rechtmäßigkeit des im Vergnügungssteuergesetz
+     Nordrhein-Westfalen normierten Stückzahlmaßstabs eingeräumt, sondern ist
+     davon ausgegangen, dass das Gesetz insoweit mit Art. 3 Abs. 1 GG nicht vereinbar ist. Zu der - vom Oberverwaltungsgericht bejahten - Frage, ob die Verwaltungsgerichte befugt sind, eine gleichheitswidrige Regelung des Stückzahlmaßstabs für vorübergehend weiter anwendbar zu erklären, hat sich das Bundesverwaltungsgericht in den von der Beschwerde genannten Entscheidungen
+     nicht verhalten.
+
+
+10   3. Die Kostenentscheidung folgt aus § 154 Abs. 2 VwGO. Die Festsetzung des
+     Werts des Streitgegenstandes beruht auf § 52 Abs. 3, § 47 Abs. 1 und 3 GKG.
+
+
+
+
+     Dr. Storost                       Buchberger                           Dr. Christ
