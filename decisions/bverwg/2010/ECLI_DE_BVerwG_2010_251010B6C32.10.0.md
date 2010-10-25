@@ -1,0 +1,66 @@
+---
+ecli: "ECLI:DE:BVerwG:2010:251010B6C32.10.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "6"
+aktenzeichen: "6 C 32.10"
+decided: "2010-10-25"
+typ: "B"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/251010B6C32.10.0.pdf"
+corpus_doc_id: "BVerwG_2010-10-25_B_6_C_32_10_NA_0.txt"
+cites_law: ["germany/bund/acts/gkg_2004/0052.md", "germany/bund/acts/vwgo/0092.md", "germany/bund/acts/vwgo/0155.md"]
+---
+
+# Bundesverwaltungsgericht, 6 C 32.10 vom 2010-10-25
+
+## Leitsatz
+
+0
+
+## Entscheidung
+
+BUNDESVERWALTUNGSGERICHT
+
+                          BESCHLUSS
+
+BVerwG 6 C 32.10
+VG AN 15 K 10.00833
+
+
+
+                      In der Verwaltungsstreitsache
+
+                                          -2-
+
+
+
+    hat der 6. Senat des Bundesverwaltungsgerichts
+    am 25. Oktober 2010
+    durch den Vorsitzenden Richter am Bundesverwaltungsgericht Neumann
+    und die Richter am Bundesverwaltungsgericht Dr. Graulich und Dr. Möller
+
+
+    beschlossen:
+
+
+              Das Revisionsverfahren wird eingestellt.
+
+              Die Beklagte trägt die Kosten des Revisionsverfahrens.
+
+              Der Wert des Streitgegenstandes wird für das Revisionsverfahren auf 5 000 € festgesetzt.
+
+
+
+                                    Gründe:
+
+
+1   Die Beklagte hat ihre Revision gegen das Urteil des Verwaltungsgerichts Ansbach vom 7. Juli 2010 mit Schriftsatz vom 18. Oktober 2010 zurückgenommen.
+    Das Revisionsverfahren ist deshalb gemäß § 141 Satz 1, § 125 Abs. 1 Satz 1, §
+    92 Abs. 3 Satz 1 VwGO einzustellen.
+
+
+2   Die Kostenentscheidung folgt aus § 155 Abs. 2 VwGO. Die Streitwertfestsetzung beruht auf § 47 Abs. 1 Satz 1 i.V.m. § 52 Abs. 2 GKG.
+
+
+
+
+    Neumann                         Dr. Graulich                       Dr. Möller
