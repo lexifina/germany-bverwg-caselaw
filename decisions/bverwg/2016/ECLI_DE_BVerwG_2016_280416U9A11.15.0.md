@@ -1,0 +1,452 @@
+---
+ecli: "ECLI:DE:BVerwG:2016:280416U9A11.15.0"
+court: "Bundesverwaltungsgericht"
+spruchkoerper: "9"
+aktenzeichen: "9 A 11.15"
+decided: "2016-04-28"
+typ: "U"
+source_url: "https://www.bverwg.de/entscheidungen/pdf/280416U9A11.15.0.pdf"
+corpus_doc_id: "BVerwG_2016-04-28_U_9_A_11_15_NA_0.txt"
+cites_law: ["germany/bund/acts/bnatschg_2009/0044.md", "germany/bund/acts/bnatschg_2009/0045.md", "germany/bund/acts/fstrg/0016.md", "germany/bund/acts/gkg_2004/0052.md", "germany/bund/acts/grundgesetz/artikel/028.md", "germany/bund/acts/vwgo/0154.md", "germany/bund/acts/whg_2009/0027.md", "germany/bund/acts/whg_2009/0044.md", "germany/bund/acts/whg_2009/0047.md"]
+---
+
+# Bundesverwaltungsgericht, 9 A 11.15 vom 2016-04-28
+
+## Leitsatz
+
+1
+
+## Entscheidung
+
+Sachgebiet:                                                    BVerwGE: nein
+                                                                 Fachpresse: ja
+  Straßen- und Wegerecht, mit Ausnahme von Streitigkeiten über
+  Sondernutzungen
+
+  Sachgebietsergänzung:
+
+  Straßenplanungsrecht, Verwaltungsverfahrensrecht
+
+
+  Rechtsquelle/n:
+
+  GG                Art. 28 Abs. 2
+  FStrG             § 17
+  BrSchG SH         §3
+
+
+  Titelzeile:
+
+  Brandschutz im Autobahntunnel
+
+
+  Stichworte:
+
+  Planfeststellung; Planfeststellungsbeschluss; Autobahn; Landkreis; Abwehrender
+  Brandschutz; Klagebefugnis; Selbstverwaltungsaufgabe; Tunnelfeuerwehr; finanzielle
+  Mehrbelastungen.
+
+
+  Leitsatz:
+
+  Finanziellen Mehrbelastungen, die durch ein Tunnelbauwerk dem Kreis für die Sicherstellung des ihm gesetzlich zugewiesenen überörtlichen abwehrenden Brandschutzes entstehen, muss im Rahmen der Planfeststellung grundsätzlich nicht Rechnung getragen werden.
+
+
+  Urteil des 9. Senats vom 28. April 2016 - BVerwG 9 A 11.15
+
+
+
+
+ECLI:DE:BVerwG:2016:280416U9A11.15.0
+
+
+          BUNDESVERWALTUNGSGERICHT
+
+                   IM NAMEN DES VOLKES
+
+                             URTEIL
+
+BVerwG 9 A 11.15
+
+                                                  Verkündet
+                                              am 28. April 2016
+                                                      …
+                                             Justizobersekretärin
+                                   als Urkundsbeamtin der Geschäftsstelle
+
+
+                     In der Verwaltungsstreitsache
+
+                                           -2-
+
+
+
+
+    hat der 9. Senat des Bundesverwaltungsgerichts
+    auf die mündliche Verhandlung vom 11. bis 13. April 2016
+    durch den Vorsitzenden Richter am Bundesverwaltungsgericht Dr. Bier,
+    die Richterin am Bundesverwaltungsgericht Buchberger,
+    den Richter am Bundesverwaltungsgericht Prof. Dr. Korbmacher,
+    die Richterin am Bundesverwaltungsgericht Dr. Bick
+    und den Richter am Bundesverwaltungsgericht Steinkühler
+
+    am 28. April 2016 für Recht erkannt:
+
+
+
+               Die Klage wird abgewiesen.
+
+               Der Kläger trägt die Kosten des Verfahrens.
+
+
+
+                                       Gründe:
+
+
+
+
+                                             I
+
+
+1   Der klagende Landkreis wendet sich gegen den Planfeststellungsbeschluss
+    vom 30. Dezember 2014 für den Neubau der A 20 Nord-West-Umfahrung
+    Hamburg im Abschnitt von der Landesgrenze Niedersachsen/Schleswig-Holstein bis B 431.
+
+
+2   Der planfestgestellte Abschnitt ist Teil der in acht Streckenabschnitte gegliederten "Nord-West-Umfahrung Hamburg", die im Osten beim Autobahnkreuz
+    Lübeck an das fertiggestellte Verkehrsprojekt Deutsche Einheit Nr. 10 (Neubau
+    der Ostseeautobahn zwischen Lübeck und Stettin) anknüpft und im achten
+    Streckenabschnitt zwischen Glückstadt und Drochtersen die Elbe mit einem
+    insgesamt 5,671 km langen Tunnelbauwerk unterqueren soll. Für die Planfeststellung wurde der achte Streckenabschnitt an der Grenze zwischen Niedersachsen und Schleswig-Holstein in der Mitte der Elbe in zwei selbständige
+    Planfeststellungsverfahren aufgeteilt. Sämtliche Abschnitte der Nord-West-Umfahrung Hamburg sind im Bedarfsplan in der Stufe des vordringlichen Be-
+
+                                          -3-
+
+
+    darfs ausgewiesen. Darüber hinaus sind sie Bestandteil des transeuropäischen
+    Verkehrsnetzes (TEN-V).
+
+
+3   Das planfestgestellte Vorhaben weist eine Gesamtlänge von 3,99 km auf. Die
+    Länge des in der Mitte der Elbe beginnenden Tunnelabschnitts beträgt ca.
+    1,8 km. In Fahrtrichtung Drochtersen weist die Nordrampe (Weströhre) über ca.
+    1 330 m eine Längsneigung von knapp 4 % auf. Das Tunnelportal liegt südlich
+    von Glückstadt und östlich der Ortslage Kollmar in etwa 400 m Entfernung vom
+    Elbdeich. Die Trasse quert im weiteren Verlauf die Langenhalsener Wettern mit
+    einer 4,5 m hohen und 34,5 m weiten Brücke und endet in Dammlage in der
+    Nähe der Bundesstraße 431, ohne jedoch an diese anzubinden. Die Trassenwahl folgt der Linienbestimmung des damaligen Bundesministeriums für Verkehr, Bau- und Wohnungswesen vom 28. Juli 2005. Östlich der Trasse liegt das
+    FFH-Gebiet "DE 2222-321 Wetternsystem in der Kollmarer Marsch". Der Mindestabstand der Trasse zu diesem aus Gewässer- und Grabensystemen in der
+    Elbmarsch bestehenden Schutzgebiet beträgt ca. 500 m. Schutzziel der Gebietsausweisung ist die in Anhang II der FFH-Richtlinie aufgeführte Fischart
+    "Schlammpeitzger". Westlich des ausgewiesenen FFH-Gebietes schneidet die
+    Trasse das dort gelegene Erweiterungsgebiet A (P 2222-322), welches vom
+    Beklagten vorsorglich einer Verträglichkeitsprüfung unterzogen worden ist. Der
+    gesamte schleswig-holsteinische Abschnitt der Elbe von der Mündung bis zur
+    Unterelbe bei Wedel ist Teil des FFH-Gebietes "DE 2323-392 Schleswig-Holsteinisches Elbästuar". Im Bereich des Vorhabens liegt der Teilraum 2 des
+    Schutzgebietes "Elbe mit Deichvorland und Inseln" mit zwei nicht prioritären
+    Lebensraumtypen sowie einer Reihe geschützter Fischarten. Etwa 500 m vom
+    Tunnelportal entfernt befindet sich außendeichs das Vogelschutzgebiet "DE
+    2323-401 Unterelbe bis Wedel".
+
+
+4   Die Linie für den streitgegenständlichen Abschnitt wurde unter der Bezeichnung
+    "A 20, Nord-West-Umfahrung Hamburg Abschnitt A 26 (Niedersachsen) bis Bad
+    Segeberg (Schleswig-Holstein)" bestimmt. Für diesen Abschnitt fand eine großräumige Variantenprüfung zur Linienfindung statt. Die Unterlagen (Untersuchung zur Linienfindung von Oktober 2002) wurden vom 6. Januar 2003 bis
+    6. Februar 2003 öffentlich ausgelegt. Ab Oktober 2004 wurde das Linienbe-
+
+                                          -4-
+
+
+    stimmungsverfahren mit dem zunächst separat davon geführten Linienbestimmungsverfahren für den Raum Bad Segeberg gemeinsam fortgeführt. Im November 2004 stellten die Länder Schleswig-Holstein und Niedersachsen beim
+    Bundesministerium für Verkehr, Bau- und Wohnungswesen unter Vorlage eines
+    gemeinsamen Erläuterungsberichts den formellen Antrag nach § 16 FStrG auf
+    Bestimmung der Linie für die "A 20, Nord-West-Umfahrung Hamburg, Abschnitt
+    A 26 (Niedersachsen) bis Weede, östlich Bad Segeberg (Schleswig-Holstein)".
+    Der Antrag, der letztlich zur Linienbestimmung führte, umfasste eine Strecke mit
+    einer Gesamtlänge von ca. 95 km.
+
+
+5   Die Länder Niedersachsen und Schleswig-Holstein schlossen im Oktober 2005
+    eine Verwaltungsvereinbarung über die Elbquerung einschließlich Elbtunnel.
+    Darin werden die Zuständigkeiten und die Kostenverteilung für die Planung geregelt. Gemäß § 2 Abs. 5 Satz 2 der Vereinbarung wird die Planfeststellung separat in Eigenverantwortung der beiden Länder durchgeführt.
+
+
+6   Die vom Vorhabenträger zur Planfeststellung eingereichten Unterlagen lagen
+    nach vorangegangener ortsüblicher Bekanntmachung in der Zeit vom 25. Mai
+    2009 bis zum 25. Juni 2009 in den Amtsverwaltungen Horst-Herzhorn, Wilstermarsch und Krempermarsch aus. Nach Durchführung des Anhörungsverfahrens wurde der Plan im Dezember 2012 und im September 2014 geändert. Die
+    Änderungsunterlagen der ersten Planänderung lagen erneut in den vorgenannten Verwaltungen sowie zusätzlich in Glückstadt und Elmshorn, diejenigen der
+    zweiten Änderung nur zusätzlich in Glückstadt aus.
+
+
+7   Mit Beschluss vom 30. Dezember 2014 stellte der Beklagte den Plan für den
+    Neubau der A 20 Nord-West-Umfahrung Hamburg, Abschnitt von der Landesgrenze Niedersachsen/Schleswig-Holstein bis B 431 fest. Im Laufe der mündlichen Verhandlung hat der Beklagte den Plan durch mehrere Protokollerklärungen geändert. In der geänderten Fassung darf das Vorhaben erst verwirklicht
+    werden, "wenn für den südwestlichen anschließenden Abschnitt auf niedersächsischem Gebiet und einen sich daran anschließenden Abschnitt, der die
+    Anbindung an das Straßennetz sicherstellt", sowie für den in nordöstlicher Richtung auf schleswig-holsteinischem Gebiet anschließenden Planungsabschnitt 7
+
+                                          -5-
+
+
+    (A 20 - Abschnitt B 431 bis A 23) vollziehbare Planfeststellungsbeschlüsse vorliegen und gegen deren Vollziehbarkeit keine Anträge auf Anordnung der aufschiebenden Wirkung gestellt oder entsprechende Anträge im gerichtlichen Verfahren zurückgewiesen worden sind. Hinsichtlich der Tunnelsicherheit enthält
+    der Planfeststellungsbeschluss zahlreiche Nebenbestimmungen, die in einer
+    Reihe von Punkten in der mündlichen Verhandlung ergänzt und präzisiert wurden. Der Beklagte hat außerdem durch eine Planänderung die Zahl der befahrbaren Querschläge zwischen den Tunnelröhren erhöht. Die Verkehrsfreigabe
+    darf nur erfolgen, wenn die Umsetzung der zur Erreichung des Sicherheitsniveaus erforderlichen Maßnahmen gegenüber der Planfeststellungsbehörde
+    nachgewiesen worden ist; es ist vom Vorhabenträger mitzuteilen, ob sich neue
+    Erkenntnisse zur Erforderlichkeit einer automatischen Brandbekämpfungsanlage ergeben haben und gegebenenfalls eine solche Anlage nachzurüsten. Hinsichtlich des FFH-Gebietes "DE 2222-321 Wetternsystem in der Kollmarer
+    Marsch" einschließlich der Erweiterungskulisse "P 2222-322" und des FFH-Gebietes "DE 2323-392 Schleswig-Holsteinisches Elbästuar" sowie des Vogelschutzgebietes "DE 2323-401 Unterelbe bis Wedel" verneint der Planfeststellungsbeschluss erhebliche Beeinträchtigungen. In Bezug auf den Artenschutz
+    kommt er zu dem Ergebnis, dass durch die vorgesehenen Vermeidungs- und
+    Minderungsmaßnahmen sowie die vorgezogenen Ausgleichsmaßnahmen keine
+    Verbote nach § 44 Abs. 1 BNatSchG verwirklicht und keine Ausnahmen nach
+    § 45 Abs. 7 BNatSchG erforderlich werden. Im Laufe des Gerichtsverfahrens
+    hat der Beklagte einen Fachbeitrag zur Wasserrahmenrichtlinie zur Vereinbarkeit des Vorhabens mit den Bewirtschaftungszielen nach §§ 27, 44 und 47
+    WHG vorgelegt. Dieser kommt zu dem Ergebnis, dass durch das Vorhaben keine Verschlechterungen des ökologischen Potentials und des hydromorphologischen sowie des chemischen Zustandes der Elbe zu erwarten seien und das
+    Vorhaben auch dem Verbesserungsgebot sowie dem Trendumkehrgebot nicht
+    entgegenstehe.
+
+
+8   Der Kläger hat fristgerecht Klage erhoben. Während des Klageverfahrens haben der Kläger und der Sielverband Kollmar einerseits sowie der Vorhabenträger andererseits eine Vereinbarung über die Größe der zur Gewässerunterhaltung erforderlichen planfestgestellten Randstreifen getroffen und damit die in-
+
+                                           -6-
+
+
+     soweit ursprünglich bestehenden Streitpunkte geklärt. Der Kläger wendet sich
+     mit seiner Klage nur noch gegen das Brandsicherheitskonzept des Planfeststellungsbeschlusses. Er ist der Auffassung, der Planfeststellungsbeschluss habe
+     sich zu Unrecht mit dem baulichen Brandschutz begnügt und von der Anordnung einer Tunnelfeuerwehr abgesehen.
+
+
+9    Der Kläger beantragt,
+
+
+               festzustellen, dass der Planfeststellungsbeschluss für den
+               Neubau der A 20 (Nord-West-Umfahrung Hamburg, Abschnitt von der Landesgrenze Niedersachsen/Schleswig-Holstein bis B 431) vom 30. Dezember 2014 in der Fassung der in der mündlichen Verhandlung erklärten Ergänzungen rechtswidrig und nicht vollziehbar ist,
+
+               hilfsweise,
+
+               den Beklagten zu verpflichten, den Planfeststellungsbeschluss um eine Nebenbestimmung zu ergänzen, wonach
+               entweder das Land Schleswig-Holstein oder der Träger
+               der Straßenbaulast oder gegebenenfalls ein privater Betreiber verpflichtet wird, eine hauptamtliche Portalfeuerwehr zu errichten und zu betreiben und die daraus entstehenden Kosten zu tragen;
+
+               äußerst hilfsweise,
+
+               den Beklagten zu verpflichten, den Planfeststellungsbeschluss um eine Nebenbestimmung zu ergänzen, wonach
+               das Land Schleswig-Holstein oder der Träger der Straßenbaulast oder gegebenenfalls ein privater Betreiber den
+               Kreis Steinburg von allem Mehraufwand freizustellen hat,
+               der ihm durch den Planfeststellungsbeschluss und infolge
+               des Planfeststellungsbeschlusses bei der Wahrnehmung
+               seiner Aufgaben gemäß § 3 Brandschutzgesetz Schleswig-Holstein entsteht.
+
+10   Der Beklagte beantragt,
+
+
+               die Klage abzuweisen.
+
+11   Er verteidigt den Planfeststellungsbeschluss und tritt dem Vorbringen des Klägers entgegen.
+
+                                          -7-
+
+
+
+
+                                            II
+
+
+12   A. Die Klage ist zulässig.
+
+
+13   Der Kreis ist als Gemeindeverband im Rahmen des verwaltungsgerichtlichen
+     Rechtsschutzes befugt, das ihm hinsichtlich der kreiskommunalen Aufgaben
+     zustehende Recht auf Selbstverwaltung (Art. 28 Abs. 2 Satz 2 GG) im Klagewege durchzusetzen (vgl. BVerfG, Kammerbeschluss vom 9. März
+     2007 - 2 BvR 2215/01 - BVerfGK 10, 365 <369> m.w.N.). Nach § 3 des schleswig-holsteinischen Gesetzes über den Brandschutz und die Hilfeleistungen der
+     Feuerwehren (Brandschutzgesetz - BrSchG SH) vom 10. Februar 1996
+     (GVOBl. Schl.-H. S. 200) sind dem Kläger eine Reihe überörtlicher Aufgaben
+     zur Sicherstellung des abwehrenden Brandschutzes übertragen. Insbesondere
+     im Hinblick auf die ihm danach obliegende Aufgabe, eine ständig mit entsprechend geschultem Personal besetzte Feuerwehreinsatzleitstelle einzurichten
+     und zu unterhalten und eine Kreisfeuerwehrzentrale zur Unterbringung von
+     Fahrzeugen und Gerätschaften einzurichten, zu unterhalten und auf dem neuesten Stand zu halten, erscheint es nicht von vornherein nach jeder Betrachtungsweise ausgeschlossen, dass dem Kläger die Erfüllung dieser Aufgaben
+     durch das geplante Vorhaben wesentlich erschwert wird.
+
+
+14   B. Die Klage ist nicht begründet.
+
+
+15   Das Brandschutzkonzept des Planfeststellungsbeschlusses erweist sich unter
+     Berücksichtigung der in der mündlichen Verhandlung abgegebenen Erklärung
+     des Landes Schleswig-Holsteins und der das planfestgestellte Brandschutzkonzept betreffenden Ergänzungen des Beklagten als tragfähig.
+
+
+16   Der Planfeststellungsbeschluss ist auf der Grundlage zweier Untersuchungen
+     zur Bewertung der Möglichkeiten und Grenzen eines Feuerwehreinsatzes im
+     Tunnelbauwerk durch das Gutachterbüro D. vom 8. Juni 2009 zu dem Ergebnis
+     gekommen, dass die Übertragung der Rettung und Brandbekämpfung auf die
+     umliegenden Freiwilligen Feuerwehren mit der entsprechenden technischen
+
+                                           -8-
+
+
+     Ausstattung sowie mit Ausbildung und Training für Tunnelbrände möglich sei.
+     Für Schleswig-Holstein geht der Planfeststellungsbeschluss (S. 241) davon
+     aus, dass hauptamtliche Kräfte für den Ersteinsatz vorgesehen werden. Die
+     Organisation und Durchführung des abwehrenden Brandschutzes obliege dem
+     Land, das zusammen mit den betroffenen Kreisen und Gemeinden ein entsprechendes Sicherheitskonzept zu erarbeiten und den Brandschutz sicherzustellen
+     habe.
+
+
+17   In seiner am 12. April 2016 in der mündlichen Verhandlung zu Protokoll gegebenen Erklärung hat das Land Schleswig-Holstein nicht nur (deklaratorisch)
+     seine gesetzlich ohnehin bestehende Verpflichtung nach dem schleswigholsteinischen Brandschutzgesetz zur Unterstützung der Klägerin im Verfahren
+     9 A 8.15 und des Klägers im hiesigen Verfahren bekräftigt, sondern sich darüber hinaus ausdrücklich verpflichtet, hauptamtliche Wachabteilungen für die
+     Elbquerung zu schaffen und hierfür finanzielle Mittel zur Verfügung zu stellen.
+     Auch wenn damit noch nicht über die Höhe der finanziellen Mittel, die das Land
+     zur Verfügung stellen wird, entschieden ist, steht durch diese Erklärung fest,
+     dass hauptamtliche Wachabteilungen der Feuerwehren mit der hierfür erforderlichen finanziellen Hilfe des Landes eingerichtet werden. Durch die Ergänzung
+     der Nebenbestimmung 2.1.2.4 um eine Ziffer 5, durch die die Verkehrsfreigabe
+     von der Vorlage eines die Sicherstellung des abwehrenden Brandschutzes belegenden Sicherheitskonzepts abhängig gemacht wird, wird die Einhaltung der
+     eingegangenen Verpflichtung vor der Inbetriebnahme des Tunnelbauwerks gewährleistet. Vor diesem Hintergrund kann dahinstehen, ob auch ohne derartige
+     Erklärungen die Planfeststellungsbehörde im Zeitpunkt des Erlasses des Planfeststellungsbeschlusses von der Sicherstellung des abwehrenden Brandschutzes für das Tunnelbauwerk durch die Freiwilligen Feuerwehren der Klägerin im
+     Verfahren 9 A 8.15 und des Klägers im hiesigen Verfahren ausgehen durfte und
+     ob dem Kläger hierdurch die Erfüllung der ihm nach § 3 BrSchG SH obliegenden Selbstverwaltungsaufgabe, den örtlichen Brandschutz zu gewährleisten,
+     wesentlich erschwert oder unmöglich gemacht worden wäre. Denn durch die
+     abgegebenen Erklärungen ist der von dem Kläger geltend gemachten Forderung nach Errichtung einer mit hauptamtlichen Feuerwehrkräften besetzten
+     "Tunnelwache" und finanzieller Unterstützung in der Sache Rechnung getragen
+
+                                          -9-
+
+
+     worden. Ein darüber hinaus gehender Anspruch, dies durch eine an den Vorhabenträger gerichtete Auflage zu regeln, steht dem Kläger ebenso wenig zu wie
+     der Anspruch, von allem Mehraufwand freigestellt zu werden, der ihm durch
+     den Planfeststellungsbeschluss bei der Wahrnehmung seiner Aufgaben gemäß
+     § 3 BrSchG SH entsteht. Finanziellen Mehrbelastungen, die durch eine neu errichtete Straße verursacht werden, ist allenfalls im Rahmen des Finanzausgleichs, nicht jedoch im Rahmen der Planfeststellung Rechnung zu tragen.
+     Die mündliche Verhandlung hat im Übrigen nicht ergeben, dass es bei einer
+     finanziellen Beteiligung des Landes an den Kosten der hauptamtlichen Wachabteilungen zu unverhältnismäßigen finanziellen Belastungen des Klägers
+     kommen könnte. Bei einem geschätzten jährlichen Kostenvolumen von
+     2 Mio. €, das der Klägervertreter in der mündlichen Verhandlung genannt hat,
+     und einem Gesamthaushalt von rund 192 Mio. € ist auch unter Berücksichtigung der in der Vergangenheit aufgetretenen, aber durch Landeszuweisungen
+     ausgeglichenen Haushaltsfehlbeträge des Klägers eine unverhältnismäßige
+     Belastung nicht erkennbar.
+
+
+18   Ohne Erfolg bleibt auch der auf die Errichtung einer automatischen Brandbekämpfungsanlage gerichtete weitere Hilfsantrag des Klägers. Insoweit kann dahingestellt bleiben, ob das Vorbringen von der Rügebefugnis des Klägers umfasst ist. Die Planfeststellungsbehörde hat abwägungsfehlerfrei von der Anordnung einer solchen Anlage abgesehen. Hierzu hat der Senat in seinem Urteil
+     vom heutigen Tag im Verfahren 9 A 9.15 ausgeführt:
+
+
+               "Weder die Tunnelrichtlinie noch die im Zeitpunkt des
+               Planfeststellungsbeschlusses geltende RABT 2006
+               schreiben den Einsatz einer automatischen Brandbekämpfungsanlage vor. Beide Regelwerke verwenden den Begriff nicht. Auch der Entwurf der für 2016 geplanten Neufassung der RABT sieht die automatische (stationäre)
+               Brandbekämpfungsanlage nicht als Regelausstattung eines Tunnels vor, sondern nur in Ausnahmefällen als eine
+               Option, wenn durch eine Verstärkung der zwingend vorgeschriebenen Ausstattungsmerkmale keine ausreichende
+               Sicherheit erreicht wird oder diese Maßnahmen wirtschaftlich nicht vertretbar sind. Der Beklagte war daher nicht
+               verpflichtet, eine automatische Brandbekämpfungsanlage
+               vorzusehen, sondern hatte über den Einsatz einer solchen
+               Anlage im Rahmen der auf der Grundlage der Risikoana-
+
+                          - 10 -
+
+
+lyse vorzunehmenden Prüfung, ob zur Gewährleistung der
+Sicherheit des Tunnels zusätzliche Maßnahmen oder weitere Ausrüstungen notwendig sind, zu entscheiden. Diese
+Entscheidung hält einer Überprüfung stand.
+
+In den Untersuchungen durch das Gutachterbüro D. vom
+8. Juni 2009 wird zwar eine automatische Brandbekämpfungsanlage als wirksame Alternative zu einer Werkfeuerwehr vorgeschlagen. Die im Mai 2010 erstellte zusätzliche
+Untersuchung zur Wirksamkeit einer automatischen
+Brandbekämpfungsanlage (Zusatzbericht zur Risikoanalyse) kommt aber bezogen auf den darin allein untersuchten
+Personenschutz zu dem Ergebnis, dass eine solche Anlage zusätzlich zur Rauchabsaugung zwar das Sicherheitsniveau beider Röhren über das der Mindestanforderungen
+der RABT 2006 hebe. Hinsichtlich der Selbstrettungsmöglichkeiten sei durch das zusätzliche Aktivieren einer automatischen Brandbekämpfungsanlage im Vergleich zur reinen Rauchabsaugung nur eine geringfügige Verbesserung
+zu erwarten, weshalb wegen der mit deren Installation
+verbundenen hohen Zusatzkosten einer verkürzten Detektionszeit der Vorzug zu geben sei.
+
+Gestützt hierauf lehnt der Planfeststellungsbeschluss die
+automatische Brandbekämpfungsanlage ab. Der Baulastträger sei nicht verpflichtet, den bestmöglichen oder optimalen Standard zu gewährleisten. Das gelte auch dann,
+wenn dieser Standard die Arbeit der Feuerwehren erleichtere. Gleichzeitig hat der Planfeststellungsbeschluss dem
+Vorhabenträger in der Nebenbestimmung 2.1.2.4 unter
+Ziffer 2 jedoch aufgegeben, vor Inbetriebnahme des Tunnels den Stand der Technik darauf zu prüfen, ob sich abweichende Erkenntnisse zur Erforderlichkeit einer automatischen Brandbekämpfungsanlage ergeben haben; gegebenenfalls ist der Vorhabenträger auf seine Kosten zur
+Nachrüstung verpflichtet.
+
+Die mündliche Verhandlung hat diese Entscheidung der
+Planfeststellungsbehörde als vertretbar bestätigt.
+
+Der Gutachter des Beklagten, Bal., hat den Einbau einer
+automatischen Brandbekämpfungsanlage für einen 100 %
+wirksamen Bautenschutz als sinnvoll bezeichnet und einer
+solchen Anlage auch für die Selbstrettung einen positiven
+Wert beigemessen, gleichzeitig aber darauf hingewiesen,
+dass es diesbezüglich auch negative Auswirkungen gebe.
+So werde die zunächst stabile Schichtung des Rauchs
+zerstört, wodurch die Selbstrettung behindert werde. Es
+sei noch nicht hinreichend erforscht, welche Auswirkungen
+ein Schaum- oder Wasserregen auf das Rettungsverhalten der Betroffenen und die Sichtverhältnisse habe. Durch
+
+                          - 11 -
+
+
+das Versprühen von Schaum oder Wasser bestehe jedenfalls die Gefahr, dass Autofahrer nicht mehr aus ihrem
+Fahrzeug ausstiegen. Im Einwirkungsbereich einer automatischen Brandbekämpfungsanlage werde man als Fußgänger 'klatschnass'. Hinzu komme, dass die automatische Brandbekämpfungsanlage nicht sofort einsatzbereit
+sei. Es müsse erst der notwendige Wasservorrat und
+Wasserdruck an der Einsatzstelle aufgebaut werden,
+weshalb die Anlage erst ca. zwei Minuten nach der Detektion des Brandes wirksam werde und damit zu einem Zeitpunkt, in dem die Selbstrettung im kritischen Bereich abgeschlossen sei. Für mobilitätseingeschränkte Personen
+könne die automatische Brandbekämpfungsanlage neben
+Vorteilen auch Nachteile mit sich bringen, eine genaue
+Abschätzung sei schwer möglich. In der Selbstrettungsphase könne und müsse man auch auf die allgemeine und
+strafbewehrte Hilfspflicht der anderen Verkehrsteilnehmer
+bauen.
+
+Diese Ausführungen sind durch den Gutachter Bas. nicht
+grundsätzlich in Frage gestellt worden. Der Gutachter hat
+die hohe Wirksamkeit der Anlage betont und kritisiert,
+dass die Kostenwirksamkeit der automatischen Brandbekämpfungsanlage wegen der Nichtberücksichtigung der
+Korrekturfaktoren bei der Berechnung der Initialereignisse
+nicht zutreffend bewertet worden sei. Bei richtiger Berechnung wäre man für die Oströhre statt auf ein Kostenwirksamkeitsverhältnis von 1,3 in die Nähe von 1,0 oder darunter und auch für die Weströhre zu einem niedrigeren
+Wert als 4,2 gekommen. Dies hätte Anlass für eine vertiefte Prüfung gegeben. Dem ist der Gutachter des Beklagten
+überzeugend mit dem Hinweis entgegengetreten, angesichts der sehr viel höheren Kostenwirksamkeit der planfestgestellten Maßnahmen sei es unerheblich, ob man für
+eine automatische Brandbekämpfungsanlage auf eine
+Kostenwirksamkeitsrelation von 1,3 oder 1,0 oder 0,9
+komme. Dann jedenfalls lägen die Werte ganz erheblich
+über den Werten, die durch die planfestgestellten Maßnahmen erreicht würden.
+
+Der Einbau einer automatischen Brandbekämpfungsanlage ist auch nicht unter dem Gesichtspunkt des Bautenschutzes erforderlich. Zwar wird unter diesem Gesichtspunkt die Installation einer automatischen Brandbekämpfungsanlage in den erwähnten Berichten der D. empfohlen. In der mündlichen Verhandlung wurde vom Gutachter
+Bal. allerdings überzeugend erklärt, dass die Annahme einer Vollbrandphase von 55 Minuten auch bei großen
+Bränden dem tatsächlichen Brandgeschehen entspreche
+und bei der Verwendung der vorgesehenen Brandschutzplatten gemäß den Anforderungen der Zusätzlichen Tech-
+
+                                          - 12 -
+
+
+                nischen Vertragsbedingungen und Richtlinien für Ingenieurbauten (ZTV-ING) Teil 5 - Tunnelbau - der Tunnel diese verlängerte Vollbrandphase relativ unbeschadet überstehe. Tunnel würden auch sehr viel längere Brandereignisse überstehen, wie ein Großbrand im Gotthardtunnel
+                gezeigt habe, bei dem die Feuerwehr erst zwei bis drei
+                Tage nach Brandausbruch in den Tunnel gelangt sei. Der
+                Kritik, die erhöhten baulichen Anforderungen an den
+                Brandschutz des Tunnelbauwerks seien nicht planfestgestellt, hat der Beklagte durch einen Blaueintrag in die
+                Bauwerksunterlagen ausgeräumt.
+
+                Der Beklagte hat schließlich dadurch, dass er den Vorhabenträger verpflichtet hat, vor der Inbetriebnahme des
+                Tunnels zu prüfen, ob eine automatische Brandbekämpfungsanlage mittlerweile dem Stand der Technik entspricht, und gegebenenfalls eine solche Anlage nachzurüsten, sichergestellt, dass der Planfeststellungsbeschluss
+                an die neuesten technischen Entwicklungen und Erkenntnisse über die Wirksamkeit einer automatischen Brandbekämpfungsanlage für den Personen- und Bauwerksschutz
+                angepasst wird. Das auf eine Ergänzung des Planfeststellungsbeschlusses um die Auflage zur Ausrüstung des
+                Tunnels mit einer automatischen Brandbekämpfungsanlage gerichtete Verpflichtungsbegehren musste daher ohne
+                Erfolg bleiben."
+
+19   C. Die Kostenentscheidung folgt aus § 154 Abs. 1 VwGO.
+
+
+
+
+     Dr. Bier                    RinBVerwG Buchberger                 Prof. Dr. Korbmacher
+                                 ist wegen Eintritts in den
+                                 Ruhestand an der Unterschrift
+                                 gehindert.
+                                 Dr. Bier
+
+                 Dr. Bick                                        Steinkühler
+
+                                    - 13 -
+
+
+                               Beschluss
+
+
+
+
+Der Wert des Streitgegenstandes wird auf 60 000 € festgesetzt (§ 52 Abs. 1
+GKG).
+
+
+
+
+Dr. Bier                    Prof. Dr. Korbmacher                        Steinkühler
