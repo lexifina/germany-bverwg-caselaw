@@ -1,0 +1,30 @@
+{
+  "corpus": "de/bverwg/caselaw",
+  "path": "germany/bverwg/caselaw",
+  "name": "Case law: Germany, Bundesverwaltungsgericht",
+  "label": "Germany case law (Bundesverwaltungsgericht)",
+  "language": "de",
+  "kind": "judgments",
+  "history": "in-force",
+  "coverage": "27200 published decisions of the Bundesverwaltungsgericht, one file and one commit each, dated the day decided; 237740 citations of federal law linked to germany-law (0 inside its record).",
+  "history_from": "1997-02-26",
+  "record_to": "2024-03-13",
+  "checked_on": "2026-11-06",
+  "record_note": "Court decisions, not laws: every commit is Kind: court. In-force is the day decided. The record ends at the corpus snapshot named in REPRODUCE.md.",
+  "in_force_trailer": "In-force",
+  "correction_trailer": "Corrected",
+  "dates": {
+    "commit": "decided",
+    "time": "12:00 Europe/Berlin"
+  },
+  "source": {
+    "publisher": "Bundesverwaltungsgericht",
+    "dataset": "Corpus der Entscheidungen (BVERWG), Zenodo record 10809039",
+    "updated": "2024-03-13"
+  },
+  "licence": "CC0 1.0 (the decisions are official works, § 5 UrhG)",
+  "overlay": {
+    "path": "judgments/germany/bund/acts/<path>.jsonl",
+    "law_corpus": "germany/bund/acts"
+  }
+}
